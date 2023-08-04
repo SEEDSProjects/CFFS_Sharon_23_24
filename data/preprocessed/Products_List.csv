@@ -1,240 +1,333 @@
 ProdId,Description,SalesGroup
+R-44735,ADD|Arugula|Omelet,ADD ONS
+R-16241,ADD|Beef Patty,GV GRILL DAY
+R-44780,ADD|Condiment House Made,ADD ONS
+R-13180,ADD|Crackers,ADD ONS
+R-44739,ADD|Creamed Spin|Omelet,ADD ONS
 R-44765,ADD|Gravy|3oz,GV GRILL DAY
-R-64698,FF|Burger|TMRW mushroom crunch,GV FRESH FARE DAY
-R-61978,FLX|Fish Fritters|160g| AAD,GV - FLEX BC
-R-56157,GRL|Big Burger|kimchiBacon|AAD,GV GRILL FEATURE
-R-44655,GRL|Big Burger|Lumberjack|AAD,GV GRILL DAY
-R-68378,GRL|Burger|Alumni|AAD,GV GRILL DAY
-R-36098,GRL|Burger|Alumni|bacon cheese,GV GRILL DAY
-R-65248,GRL|Burger|BBQ TMRW |AAD,GV GRILL DAY
-R-69135,GRL|Burger|Greek TMRW|AAD,GV GRILL DAY
-R-53579,GRL|Burger|Jackfruit|AAD,GV GRILL FEATURE
-R-61830,GRL|Burger|Portobello|AAD,GV GRILL DAY
-R-44931,GRL|Burger|Salmon|AAD,GV GRILL DAY
-R-61982,GRL|Cauliflower Bites|AAD 160g,GV GRILL DAY
-R-55469,GRL|Chicken Burger|Cajun|AAD,GV GRILL FEATURE
-R-28251,GRL|Chicken Burger|Guaco bacon,GV GRILL DAY
-R-56454,GRL|Chicken Burger|Maui|AAD,GV GRILL DAY
-R-45150,GRL|Chicken Burger|Shoyu|AAD,GV GRILL DAY
-R-43964,GRL|Chicken Burger|Thai Chili,GV GRILL DAY
-R-52133,GRL|Chili Dog|AAD,SPECIALS
-R-50669,GRL|Grilled Cheese|Bacon Avo,GV GRILL FEATURE
-R-50668,GRL|Grilled Cheese|Jalapeno,GV GRILL FEATURE
-R-68406,GRL|Grilled Cheese|kimchi|AAD,GV GRILL FEATURE
-R-36139,GRL|GrilledCheese|Classic|AAD,GV GRILL DAY
-R-53419,GRL|Plant base dog 1|AAD,SPECIALS
-R-44775,GRL|Poutine|Classic|AAD,GV GRILL DAY
-R-57094,GRL|Poutine|Jalepeno|AAD,GV GRILL DAY
-R-56456,GRL|Sand|Monte Cristo|AAD,GV - GRILL BREAKFAST
-R-50491,GRL|Sand|Reuben|AAD,GV GRILL FEATURE
-R-56493,GRL|Sandwich|Tuna Melt|AAD,OK - GRILL KITCHEN FEATURES
-R-44770,GRL|Side|Chicken Strips,GV GRILL DAY
-R-45233,GRL|Side|Potato Fries,GV GRILL DAY
-R-44774,GRL|Side|Yam Fries|AAD,GV GRILL DAY
-R-69609,GRL|TMRW Burger|Cajun|AAD,GV GRILL FEATURE
-R-69629,GRL|TMRW|Buffalo Burger|AAD,SPECIALS
-R-64866,the big chicken wing|GRL,GV GRILL DAY
-R-61859,FF|Bowl|Poached Egg Asparagus,GV FRESH FARE DAY
-R-51215,FF|Bowl|White bean breaky|AAD,GV FRESH FARE BREAKFAST
-R-36647,FF|Egg'sadilla|Just egg,GV FRESH FARE BREAKFAST
-R-47287,FF|Omelet|Egg White ,GV FRESH FARE BREAKFAST
-R-65755,FF|Sandwich|breakfast TMRW|AAD,GV FRESH FARE BREAKFAST
-R-62001,FLX|Benny|Classic|AAD,GV FLEX GLOBAL BOWL
-R-68110,FLX|Benny|fennel|AAD,GV FLEX GLOBAL BOWL
-R-48357,FLX|Eggs Benny|Smk Salmon|AAD,GV-FLEX DOD
-R-62379,FLX|hash| squash and tempeh,GV - FLEX BC
-R-54377,GR|Sandwich|Classic BLT|AAD,SANDWICHES
-R-50312,GRL|Benny |Avocado spinach|AAD,GV - GRILL BREAKFAST
-R-62002,GRL|Benny|Asparagus|FLX ,GV GRILL BRUNCH
-R-68109,GRL|Benny|Crispy chicken|AAD,GV - GRILL BREAKFAST
-R-62012,GRL|Benny|Ham & mustard|AAD,GV GRILL FEATURE
-R-44024,GRL|Bowl|Gather & Run|AAD,GV - GRILL BREAKFAST
-R-48488,GRL|BOWL|Huevos Rancheros|AAD,GV - GRILL BREAKFAST
-R-44650,GRL|Bowl|Professors|Breakfast,GV - GRILL BREAKFAST
-R-68107,GRL|Bowl|Thunderbird Breakfast,GV GRILL BRUNCH
-R-61844,GRL|BreakfastBurritoBowl|AAD,GV - GRILL BREAKFAST
-R-51146,GRL|Crepe|Ham and Swiss|AAD,GV GRILL DAY
-R-67745,GRL|Crepe|Mushroom Swiss|AAD,GV - GRILL BREAKFAST
-R-50569,GRL|Crepe|Nutella Banana,OK - GRILL KITCHEN BREAKFAST
-R-50570,GRL|Crepe|Peach|AAD,OK - GRILL BRUNCH
-R-69126,GRL|French Toast Black|AAD,GV GRILL BRUNCH
-R-68973,GRL|French Toast Raz |AAD,GV GRILL BRUNCH
-R-51383,GRL|Gather breakfast|RATIO,GV - GRILL BREAKFAST
-R-68108,GRL|Pancakes|apple cin|AAD(1),GV - GRILL BREAKFAST
-R-36646,GRL|Pancakes|Blueberry|AAD,GV - GRILL BREAKFAST
-R-68099,GRL|Pancakes|Strawberry|AAD ,GV - GRILL BREAKFAST
-R-61822,GRL|Side|hashbrowns|,GV - GRILL BREAKFAST
-R-44738,GRL|Side|Tomato,GV - GRILL BREAKFAST
-R-62249,GRL|Side|wilted Bfast spinach,GV - GRILL BREAKFAST
-R-54846,HC|Benny |Pulled Pork|AAD,SPECIALS
-R-54202,FF|Bibimbap Bowl|AAD,GV FRESH FARE DAY
-R-64951,FF|Bowl|Asparagus scramble|AAD,GV FRESH FARE BREAKFAST
-R-27275,FF|Bowl|Black Bean Break|AAD,GV FRESH FARE BREAKFAST
-R-65942,FF|Bowl|chilimiso scramble|AAD,GV FRESH FARE BREAKFAST
-R-43738,FF|BOWL|Dobanjiang Noodle|AAD ,OK - VEGETARIAN KITCHEN
-R-57179,FF|Bowl|Fajita VEG|AAD,GV FRESH FARE DAY
-R-54039,FF|Bowl|Kale|AAD,GV FRESH FARE DAY
-R-55057,FF|Bowl|Mediterranean|AAD,GV FRESH FARE DAY
-R-64398,FF|Bowl|OysterMushroom|AAD,SPECIALS
-R-65761,FF|Bowl|Poached Egg Zuc.|AAD,GV FRESH FARE DAY
-R-35341,FF|Bowl|Polenta|AAD,OK - SIDES
-R-50333,FF|Bowl|Roasted squash|AAD,GV FRESH FARE DAY
-R-65513,FF|Bowl|Salsa scramble|AAD,GV FRESH FARE BREAKFAST
-R-40621,FF|Bowl|Thai Coconut|AAD,GV FRESH FARE DAY
-R-56895,FF|Brussel Sprout Pasta|AAD,OK - GLOBAL KITCHEN 
-R-61853,FF|Overnight oats|AppleCin|AAD,GV FRESH FARE BREAKFAST
-R-61855,FF|Overnight oats|Bannana|AAD,GV FRESH FARE BREAKFAST
-R-66411,FF|Overnight oats|black|AAD,GV FRESH FARE BREAKFAST
-R-69124,FF|Overnight oats|straw|AAD,GV FRESH FARE BREAKFAST
-R-47827,FF|Pasta|Artichoke Penne|AAD,GV FRESH FARE FEATURE
-R-68820,FF|Pasta|blanco|AAD,SPECIALS
-R-68821,FF|Pasta|Duxcell Spaghetti,SPECIALS
-R-36568,FF|Pasta|Spinach Avocado|AAD,GV FRESH FARE DAY
-R-55234,FF|Pasta|Tomato basil|AAD,GV FRESH FARE DAY
-R-54608,FF|Ratatoullie|bowl|AAD,GV FRESH FARE FEATURE
-R-47096,FF|Risotto|Mushroom|Herbs&chee,GV FRESH FARE FEATURE
-R-55151,FF|Risotto|Primavera|AAD,GV FRESH FARE FEATURE
-R-55148,FF|Risotto|Squash|Herbs&cheese,GV FRESH FARE FEATURE
-R-36574,FF|Salad|UBC Power|AAD,GV FRESH FARE DAY
-R-50694,FF|Spaghetti Puttanesca|AAD,GV FRESH FARE DAY
-R-56719,FF|Toast|Beans On Toast|AAD,GV FRESH FARE DAY
-R-61875,FF|Toast|Bruscetta|AAD,GV FRESH FARE DAY
-R-56718,FF|Toast|Farm Veg toast|AAD,GV FRESH FARE DAY
-R-61874,FF|Toast|Mushroom toast|AAD,GV FRESH FARE DAY
-R-68811,FF|Toast|primavera|AAD,GV FRESH FARE DAY
-R-65943,FF|Toast|Shaved fennel|AAD,GV FRESH FARE DAY
-R-36669,FF|Toast|Smashed Avocado|AAD,GV FRESH FARE DAY
-R-36552,FF|Yaki Soba Miso Noodle|AAD,GV FRESH FARE DAY
-R-54557,FLX|GLB|Garlic Flatbread,GV FLEX GLOBAL BOWL
-R-45981,FREE|Greens|Gather Bowl,GV FRESH FARE DAY
-R-44316,GRL|BOWL|White Bean|AAD,GV - GRILL BREAKFAST
-R-67295,GZA|BowlEggplant miso|AAD,GV GYAZA
-R-56509,HS|Quesadilla|Breakfast,FT BUENO
-R-32886,VEG|Bowl|Curried Chickpea,FEAST
-R-55942,VEG|Falafel bowl|Med,FEAST
-R-56688,VEG|Shakshuka,OK - VEGETARIAN KITCHEN
-R-35461,VEG|Tabbouleh Bowl,OK - VEGETARIAN KITCHEN
-R-56827,CC|Chickpea Vindaloo|PLATE,FT OASIS/CHAAT
-R-44885,FLX|Bao Shitake & Kimchi|AAD,GV FLEX BAO
-R-40569,FLX|Bao|Bowl|Pork Belly,GV FLEX BAO
-R-44886,FLX|Bao|Bowl|Thai Chicken,GV FLEX BAO
-R-61970,FLX|Bao|Mushroom|AAD,GV FLEX BAO
-R-61932,FLX|Beef brisket|AAD ,GV - FLEX BC
-R-62000,FLX|Benny|mushroom spin|AAD,GV FLEX GLOBAL BOWL
-R-57374,FLX|BPD|Crispy potato,FOOD
-R-44376,FLX|Butter Chicken|275g,GV FLEX GLOBAL BOWL
-R-57262,FLX|Butter Tofu 275g,GV FLEX GLOBAL BOWL
-R-65254,FLX|Laksa|eggplant Tofu|AAD,GV - FLEX ASIAN NOODLE
-R-64446,FLX|Laksa|ling cod|AAD 100g,GV - FLEX ASIAN NOODLE
-R-45203,FLX|Laksa|Salmon|AAD,GV - FLEX ASIAN NOODLE
-R-41308,FLX|Miso ramen|AAD,GV - FLEX ASIAN NOODLE
-R-69621,FLX|Palak Paneer|AAD,GV FLEX GLOBAL BOWL
-R-61435,FLX|Pasta|Mac + Cheese|350g,GV - FLEX BC
-R-49596,FLX|Pasta|Primavera Spaghetti,SPECIALS
-R-61908,FLX|Pasta|Ravioli butternut,GV - FLEX BC
-R-44766,FLX|Pho Beef Noodle|AAD,GV - FLEX ASIAN NOODLE
-R-44930,FLX|PHO Veg Noodle Soup|AAD,GV - FLEX ASIAN NOODLE
-R-61955,FLX|Shoyu Chicken 170g,GV - FLEX BC
-R-61958,FLX|Shoyu tofu 150g,GV - FLEX BC
-R-61967,FLX|Spicy Soy Salmon 100g,GV - FLEX BC
-R-62288,FLX|Spicy Soy tofu 150g,GV - FLEX BC
-R-57280,FLX|Tonkotsu Ramen|AAD,GV - FLEX ASIAN NOODLE
-R-62718,SL|Beef Brisket|+1,GV SIMPLY LOCAL
-R-62716,SL|Beef Brisket|+2,GV SIMPLY LOCAL
-R-62054,SL|Beef Brisket|+3,GV SIMPLY LOCAL
-R-62053,SL|Beef Brisket|+4,GV SIMPLY LOCAL
-R-49123,SL|Beef Brisket|AAD|SL,GV SIMPLY LOCAL
-R-62078,SL|Beef flat roast| +1,GV SIMPLY LOCAL
-R-62077,SL|Beef flat roast| +2,GV SIMPLY LOCAL
-R-62076,SL|Beef flat roast| +3,GV SIMPLY LOCAL
-R-48878,SL|Beef flat roast| +4,GV SIMPLY LOCAL
-R-62209,SL|Beef flat roast| 125g,GV SIMPLY LOCAL
-R-37781,SL|Big Veg|Caulif Roast|320g,GV SIMPLY LOCAL
-R-47110,SL|Chicken Thigh (2) ,GV SIMPLY LOCAL
-R-62071,SL|Chicken Thigh|+1,GV SIMPLY LOCAL
-R-62070,SL|Chicken Thigh|+2,GV SIMPLY LOCAL
-R-62069,SL|Chicken Thigh|+3,GV SIMPLY LOCAL
-R-62068,SL|Chicken Thigh|+4,GV SIMPLY LOCAL
-R-62175,SL|chimichuri thigh|+1,GV SIMPLY LOCAL
-R-62174,SL|chimichuri thigh|+2,GV SIMPLY LOCAL
-R-62173,SL|chimichuri thigh|+3,GV SIMPLY LOCAL
-R-62172,SL|chimichuri thigh|+4,GV SIMPLY LOCAL
-R-57250,SL|chimichuri thigh|160g,GV SIMPLY LOCAL
-R-62115,SL|Herb'd Pork Loin|+1,GV SIMPLY LOCAL
-R-62114,SL|Herb'd Pork Loin|+2,GV SIMPLY LOCAL
-R-62113,SL|Herb'd Pork Loin|+4,GV SIMPLY LOCAL
-R-37708,SL|Herb'd Pork Loin||125g,GV SIMPLY LOCAL
-R-62125,SL|Maple salmon|+1,GV SIMPLY LOCAL
-R-62126,SL|Maple salmon|+2,GV SIMPLY LOCAL
-R-62124,SL|Maple salmon|+3,GV SIMPLY LOCAL
-R-45376,SL|Maple salmon|100g,GV SIMPLY LOCAL
-R-62140,SL|Olive Stuff Chicken Breas,GV SIMPLY LOCAL
-R-62132,SL|Peppercorn Pork Chop|+1,GV SIMPLY LOCAL
-R-62134,SL|Peppercorn Pork Chop|+2,GV SIMPLY LOCAL
-R-62135,SL|Peppercorn Pork Chop|+3,FOOD
-R-62133,SL|Peppercorn Pork Chop|+4,FOOD
-R-62127,SL|Peppercorn Pork Chop|170g,GV SIMPLY LOCAL
-R-62152,SL|Salmon gremolata|+1,GV SIMPLY LOCAL
-R-62151,SL|Salmon gremolata|+2,GV SIMPLY LOCAL
-R-62150,SL|Salmon gremolata|+3,GV SIMPLY LOCAL
-R-62149,SL|Salmon gremolata|100g,GV SIMPLY LOCAL
-R-62715,SL|Salmon Lemon herb|+1,GV SIMPLY LOCAL
-R-62714,SL|Salmon Lemon herb|+2,GV SIMPLY LOCAL
-R-62097,SL|Salmon Lemon herb|+3,GV SIMPLY LOCAL
-R-62096,SL|Salmon Lemon herb|100g,GV SIMPLY LOCAL
-R-36860,SL|Sauce|Add|Chimichurri ,GV SIMPLY LOCAL
-R-45146,SL|Sauce|Add|Gremolata ,GV SIMPLY LOCAL
-R-62302,SL|Sauce|RATIO|NEW,GV SIMPLY LOCAL
-R-57243,SL|Side|beans and pesto,FOOD
-R-37868,SL|Side|Beans Romano ,GV SIMPLY LOCAL
-R-44814,SL|Side|Potato baked,GV SIMPLY LOCAL
-R-36874,SL|Side|Potato Rosemary Roast,GV SIMPLY LOCAL
-R-47746,SL|Side|Potato Smash Olive Oil,GV SIMPLY LOCAL
-R-46330,SL|Side|Quinoa,GV SIMPLY LOCAL
-R-36854,SL|Side|Rice Brown,GV SIMPLY LOCAL
-R-52652,SL|Side|Roasted Potato,GV SIMPLY LOCAL
-R-36853,SL|Side|SorghumRoasted,GV SIMPLY LOCAL
-R-62303,SL|SIDEs x1|RATIO,GV SIMPLY LOCAL
-R-44810,SL|SideYam Roasted Sage,GV SIMPLY LOCAL
-R-45070,SL|Squash bowl(1),GV SIMPLY LOCAL
-R-62118,SL|Squash bowl|+1,GV SIMPLY LOCAL
-R-62117,SL|Squash bowl|+2,GV SIMPLY LOCAL
-R-62116,SL|Squash bowl|+3,GV SIMPLY LOCAL
-R-57242,SL|Starches blend|Beans legume,FOOD
-R-57240,SL|Starches Blend|Potatoes,FOOD - HOT
-R-57241,SL|Starches blend|Rice & grain,FOOD
-R-57244,SL|Starches|RATIO|NEW,GV SIMPLY LOCAL
-R-62144,SL|Vegetable lasagne|220g,GV SIMPLY LOCAL
-R-62193,SL|vegetables x2|RATIO|NEW,GV SIMPLY LOCAL
+R-57388,ADD|Gravy|plant based,FOOD
+R-41489,ADD|Marshmallow,ADD ONS
+R-46996,ADD|Pulled Pork,GV GRILL DAY
+R-42493,ADD|Sour Cream & Salsa,ADD ONS
+R-51303,ALF|Pasta|Chorizo Penne,OK - AL FORNO
+R-52829,BBC|Baked yogurt|POP,SPECIALS
+R-52828,BBC|High tideline salad|POP,SPECIALS
+R-12393,BEV|Coffee|12 oz,BEVERAGE
+R-12394,BEV|Coffee|16 oz,BEVERAGE
+R-67307,BEV|Coffee|Ethical Bean Promo,BEVERAGE
+R-53768,BEV|Cold Brew|Two Bears|Black,BEVERAGE
+R-52932,BEV|Cold Brew|Two Bears|Black,BEVERAGE
+R-53769,BEV|Cold Brew|Two Bears|Mocha,BEVERAGE
+R-53073,BEV|Core Power|Asst,BEVERAGE
+R-64333,BEV|Core Power|Banana,BEVERAGE
+R-37761,BEV|Core Power|Chocolate,BEVERAGE
+R-62981,BEV|Core Power|Chocolate|Elite,BEVERAGE
+R-64153,BEV|Core Power|StrawberryBana,BEVERAGE
+R-38098,BEV|Core Power|StrawberryBanan,BEVERAGE
+R-38035,BEV|Core Power|Vanilla,BEVERAGE
+R-45971,BEV|Fruit Water|Black Cherry,BEVERAGE
+R-45972,BEV|Fruit Water|Peach Mango,BEVERAGE
+R-45973,BEV|Fruit Water|Pineapple ,BEVERAGE
+R-37748,BEV|Happy Planet|Blackberry,BEVERAGE
+R-38280,BEV|Happy Planet|Coconut Pinea,BEVERAGE
+R-58276,BEV|Happy Planet|Extreme 'C',BEVERAGE
+R-37786,BEV|Happy Planet|Extreme Energ,BEVERAGE
+R-38524,BEV|Happy Planet|Extreme Green,BEVERAGE
+R-37749,BEV|Happy Planet|Mango Passion,BEVERAGE
+R-37743,BEV|Happy Planet|Raspberry,BEVERAGE
+R-45985,BEV|Hot Chocolate|Package,BEVERAGE
+R-47498,BEV|Ice Tea|Gold Peak|Green,BEVERAGE
+R-34518,BEV|Ice Tea|Gold Peak|Lemon,BEVERAGE
+R-47748,BEV|Ice Tea|Gold Peak|Peach,BEVERAGE
+R-38528,BEV|Ice Tea|Gold Peak|Raspberr,BEVERAGE
+R-38527,BEV|Ice Tea|Gold Peak|Unsweet,BEVERAGE
+R-37825,BEV|Ice Tea|Nestea|Green|500ml,BEVERAGE
+R-37759,BEV|Ice Tea|Nestea|Half|500ml,BEVERAGE
+R-37712,BEV|Ice Tea|Nestea|Lemon|500ml,BEVERAGE
+R-37827,BEV|Ice Tea|Nestea|Zero|500ml,BEVERAGE
+R-45812,BEV|Ice Tea|Peace|Greenest,BEVERAGE
+R-45974,BEV|Ice Tea|Peace|Lemon,BEVERAGE
+R-45975,BEV|Ice Tea|Peace|Peach,BEVERAGE
+R-45978,BEV|Ice Tea|Peace|Razzleberry,BEVERAGE
+R-37814,BEV|Ice Tea|Steaz|Asst,BEVERAGE
+R-37830,BEV|Ice Tea|Steaz|Blueberry ,BEVERAGE
+R-40879,BEV|Ice Tea|Steaz|Coconut,BEVERAGE
+R-37763,BEV|Ice Tea|Steaz|Peach,BEVERAGE
+R-38272,BEV|Ice Tea|Steaz|Peach Mango,BEVERAGE
+R-38948,BEV|Ice Tea|Steaz|Raspberry,BEVERAGE
+R-38265,BEV|Ice Tea|Steaz|Superfruit,BEVERAGE
+R-53980,BEV|Iced Coffee|Tim's|Double,BEVERAGE
+R-53981,BEV|Iced Coffee|Tim's|Vanilla,BEVERAGE
+R-56071,BEV|Iced Coffee|Tim's|Vanilla.,BEVERAGE
+R-13186,BEV|Juice|Bulk 12oz,BEVERAGE
+R-52985,BEV|Juice|Loop|Beach Bum,BEVERAGE
+R-49937,BEV|Juice|Loop|Big Bang,BEVERAGE
+R-54316,BEV|Juice|Loop|Big Bang.,BEVERAGE
+R-49933,BEV|Juice|Loop|High Achiever,BEVERAGE
+R-53071,BEV|Juice|Loop|King of Hill,BEVERAGE
+R-53151,BEV|Juice|Loop|Loco Local,BEVERAGE
+R-49934,BEV|Juice|Loop|Morning Glory,BEVERAGE
+R-49935,BEV|Juice|Loop|Undercover,BEVERAGE
+R-37829,BEV|Juice|MM|Apple|355ml,BEVERAGE
+R-37757,BEV|Juice|MM|Cranberry 355ml,BEVERAGE
+R-37755,BEV|Juice|MM|Grapefruit|355ml,BEVERAGE
+R-37758,BEV|Juice|MM|Lemonade|355ml,BEVERAGE
+R-37744,BEV|Juice|MM|Orange|355ml,BEVERAGE
+R-60815,BEV|Juice|MM|Orange|355ml.,BEVERAGE
+R-45795,BEV|Juice|Odwalla|Life Food,BEVERAGE
+R-45797,BEV|Juice|Odwalla|Mango,BEVERAGE
+R-45796,BEV|Juice|Odwalla|Straw Banana,BEVERAGE
+R-42264,BEV|Juice|Simply|Apple 340ml,BEVERAGE
+R-42262,BEV|Juice|Simply|Lemonade 340m,BEVERAGE
+R-42263,BEV|Juice|Simply|Orange 340ml,BEVERAGE
+R-42265,BEV|Juice|Simply|Peach,BEVERAGE
+R-56000,BEV|Juice|Simply|Raspberry Lem,BEVERAGE
+R-41298,BEV|Milk-To-Go|Asst,BEVERAGE
+R-40889,BEV|Milk-To-Go|Banana,BEVERAGE
+R-58217,BEV|Milk-To-Go|Chillin' Choco,BEVERAGE
+R-40885,BEV|Milk-To-Go|Choc Low Sugar,BEVERAGE
+R-50127,BEV|Milk-To-Go|Chocolate,BEVERAGE
+R-40882,BEV|Milk-To-Go|Iced Coffee,BEVERAGE
+R-37819,BEV|Milk|237ml|2%,BEVERAGE
+R-38534,BEV|Milk|237ml|2%&Skim|Promo,BEVERAGE
+R-13430,BEV|Milk|237ml|Chocolate,BEVERAGE
+R-38538,BEV|Milk|237ml|Chocolate|Promo,BEVERAGE
+R-38167,BEV|Milk|237ml|Skim,BEVERAGE
+R-38166,BEV|Milk|473 ml|2%,BEVERAGE
+R-38539,BEV|Milk|473 ml|2%|Promo,BEVERAGE
+R-49834,BEV|Milk|473 ml|Chocolate,BEVERAGE
+R-38540,BEV|Milk|473 ml|Chocolate|Prom,BEVERAGE
+R-61300,BEV|Milk|Almond Breeze|Vanilla,BEVERAGE
+R-13574,BEV|Milk|Almond|Asst,BEVERAGE
+R-55804,BEV|Milk|Almond|Chocolate,BEVERAGE
+R-62932,BEV|Milk|AlmondBreeze|Choco,BEVERAGE
+R-62933,BEV|Milk|AlmondBreeze|Vanilla,BEVERAGE
+R-13192,BEV|Milk|Bulk|Chocolate 12oz,BEVERAGE
+R-13191,BEV|Milk|Bulk|White 12oz,BEVERAGE
+R-62934,BEV|Milk|Oat|Chocolate,BEVERAGE
+R-62935,BEV|Milk|Oat|Vanilla,BEVERAGE
+R-14388,BEV|Milk|Rice|Asst,BEVERAGE
+R-39832,BEV|Milk|Rice|Chocolate,BEVERAGE
+R-12397,BEV|Milk|Soy|Asst,BEVERAGE
+R-56036,BEV|Moriyama|Latte Caffe Milk,BEVERAGE
+R-56034,BEV|Moriyama|Latte Matcha Milk,BEVERAGE
+R-56035,BEV|Moriyama|Latte Tea,BEVERAGE
+R-13185,BEV|Pop|Bulk 12oz,BEVERAGE
+R-38115,BEV|Pop|Canada Dry|500ml,BEVERAGE
+R-38116,BEV|Pop|Coke Classic|500ml,BEVERAGE
+R-63840,BEV|Pop|Coke Diet Black|500ml,BEVERAGE
+R-38117,BEV|Pop|Coke Diet|500ml,BEVERAGE
+R-38119,BEV|Pop|Coke Life|500ml,BEVERAGE
+R-64152,BEV|Pop|Coke Tst Vanilla|500ml,BEVERAGE
+R-62931,BEV|Pop|Coke Vanilla|500ml,BEVERAGE
+R-38122,BEV|Pop|Coke Zero|500ml,BEVERAGE
+R-43363,BEV|Pop|Coke|1 liter,BEVERAGE
+R-49835,BEV|Pop|Coke|2 liter,BEVERAGE
+R-38120,BEV|Pop|Fanta|473ml,BEVERAGE
+R-46353,BEV|Pop|Fresca|500ml,BEVERAGE
+R-63839,BEV|Pop|Ginger Ale Diet|500ml,BEVERAGE
+R-64450,BEV|Pop|Karma|Apple,BEVERAGE
+R-64747,BEV|Pop|Karma|Berry,BEVERAGE
+R-64749,BEV|Pop|Karma|Cherry,BEVERAGE
+R-64750,BEV|Pop|Karma|Peach,BEVERAGE
+R-64449,BEV|Pop|Karma|Pear,BEVERAGE
+R-40890,BEV|Pop|Root Beer Barq's|500ml,BEVERAGE
+R-63838,BEV|Pop|Sprite Zero|500ml,BEVERAGE
+R-38118,BEV|Pop|Sprite|500ml,BEVERAGE
+R-64151,BEV|Powerade|Blue Rasp|710ml,BEVERAGE
+R-47496,BEV|Powerade|Fruit Punch|710ml,BEVERAGE
+R-47497,BEV|Powerade|Grape|710ml,BEVERAGE
+R-47495,BEV|Powerade|Mix Berry|710ml,BEVERAGE
 R-56008,BEV|Rise Kombucha|Blueberry,BEVERAGE
 R-56005,BEV|Rise Kombucha|Ginger,BEVERAGE
+R-49832,BEV|Spa Water Full Menu|COST,BEVERAGE
+R-41299,BEV|Tea|Hot|Asst,BEVERAGE
+R-63857,BEV|Tea|Hot|Asst|Ceramic Cup,BEVERAGE
 R-56040,BEV|Tonica Kombucha|Blueberry,BEVERAGE
 R-56009,BEV|Tonica Kombucha|Grapefruit,BEVERAGE
 R-56027,BEV|Tonica Kombucha|Green Tea,BEVERAGE
 R-56004,BEV|Tonica Kombucha|Mango,BEVERAGE
 R-55997,BEV|Tonica Kombucha|Original,BEVERAGE
 R-56072,BEV|Tonica Kombucha|Peach,BEVERAGE
+R-22974,BEV|Vitasoy|Asst,BEVERAGE
+R-47491,BEV|Vitasoy|Black Soy,BEVERAGE
+R-52673,BEV|Vitasoy|Ceylon Lemon,BEVERAGE
+R-47492,BEV|Vitasoy|Chocolate,BEVERAGE
+R-48906,BEV|Vitasoy|Chrysanthemum,BEVERAGE
+R-47964,BEV|Vitasoy|Coconut,BEVERAGE
+R-47490,BEV|Vitasoy|Currant,BEVERAGE
+R-53162,BEV|Vitasoy|Honey,BEVERAGE
+R-53072,BEV|Vitasoy|Lemon Tea,BEVERAGE
+R-47965,BEV|Vitasoy|Low Sugar,BEVERAGE
+R-47493,BEV|Vitasoy|Lychee,BEVERAGE
+R-49511,BEV|Vitasoy|Malt,BEVERAGE
+R-47489,BEV|Vitasoy|Mango,BEVERAGE
+R-54029,BEV|Vitasoy|Melon,BEVERAGE
+R-45987,BEV|Water Active|Black Cherry,BEVERAGE
+R-46356,BEV|Water Active|Lemon Lime,BEVERAGE
+R-45811,BEV|Water Active|Orange Mango,BEVERAGE
+R-56308,BEV|Water|AHA|Blueberry Pom,BEVERAGE
+R-56127,BEV|Water|AHA|Peach Honey,BEVERAGE
+R-56073,BEV|Water|AHA|Watermelon Lime,BEVERAGE
+R-39283,BEV|Water|Coconut|Blue Monkey,BEVERAGE
+R-45801,BEV|Water|Coconut|Zico|1ltr,BEVERAGE
+R-37677,BEV|Water|Dasani|591ml,BEVERAGE
+R-45799,BEV|Water|Evian|1 liter,BEVERAGE
+R-45800,BEV|Water|Evian|591ml,BEVERAGE
+R-63847,BEV|Water|Smart Alkaline,BEVERAGE
+R-63844,BEV|Water|Smart Antioxidant,BEVERAGE
+R-52509,BEV|Water|Smart Sparkle|591ml,BEVERAGE
+R-63841,BEV|Water|Smart Sport|700ml,BEVERAGE
+R-63843,BEV|Water|Smart|1 ltr,BEVERAGE
+R-41284,BEV|Water|Smart|591ml,BEVERAGE
+R-50479,BEV|Water|Vitamin|Energy,BEVERAGE
+R-37754,BEV|Water|Vitamin|Essential,BEVERAGE
+R-37753,BEV|Water|Vitamin|Focus,BEVERAGE
+R-56124,BEV|Water|Vitamin|Lemon Squeez,BEVERAGE
+R-37762,BEV|Water|Vitamin|Mega,BEVERAGE
+R-37752,BEV|Water|Vitamin|Multi V,BEVERAGE
+R-37747,BEV|Water|Vitamin|Rise,BEVERAGE
+R-37714,BEV|Water|Vitamin|Shine,BEVERAGE
+R-64389,BEV|Water|Vitamin|Squeeze,BEVERAGE
+R-37751,BEV|Water|Vitamin|XOXOX,BEVERAGE
+R-37750,BEV|Water|Vitamin|XXX,BEVERAGE
 R-56106,BEV|Wild Tea Kombucha|Cola,BEVERAGE
 R-56313,BEV|Wild Tea Kombucha|Crm Soda,BEVERAGE
 R-56026,BEV|Wild Tea Kombucha|Orange,BEVERAGE
 R-56512,BEV|Wild Tea Kombucha|Rootbeer,BEVERAGE
+R-41597,BEV|Yerba Mate|Bluephoria,BEVERAGE
+R-20309,BEV|Yerba Mate|Bulk 12oz,BEVERAGE
+R-20308,BEV|Yerba Mate|Bulk 16oz,BEVERAGE
+R-40880,BEV|Yerba Mate|Classic Gold,BEVERAGE
+R-37765,BEV|Yerba Mate|Cranberry Pom,BEVERAGE
+R-37826,BEV|Yerba Mate|Enlighten Mint,BEVERAGE
+R-41985,BEV|Yerba Mate|Grapefruit Ging,BEVERAGE
+R-37764,BEV|Yerba Mate|Lemon Elation,BEVERAGE
+R-38039,BEV|Yerba Mate|Revel Berry,BEVERAGE
+R-63862,BEV|Yerba Mate|Unsweetened,BEVERAGE
+R-45977,BEV|Yogurt Drink|Asst,BEVERAGE
+R-46645,BVSTO - Alder Smoked Salmon,GV - FLEX BC
+R-46649,BVSTO - Fire Roasted Corn PTN,GV - FLEX BC
+R-46646,BVSTO - Wild Mushroom Ragout,GV - FLEX BC
+R-46642,BVSTO -Bannock Portion,GV - FLEX BC
+R-46647,BVSTO- Wild & Brown Rice Pilaf,GV - FLEX BC
+R-54947,CAL|Black bean soup|AAD,GV - CALIENTE
+R-44394,CAL|Bowl|Cabo,GV - CALIENTE BRUNCH
+R-44593,CAL|Bowl|Cozumel Brunch,GV - CALIENTE BRUNCH
+R-55154,CAL|Bowl|Guacamole|AAD,GV - CALIENTE
+R-62018,CAL|Bowl|Havana|Add Chicken,GV - CALIENTE
+R-64909,CAL|Bowl|Havana|Add Scallop,GV - CALIENTE
+R-35896,CAL|Bowl|Havana|Plant based,GV - CALIENTE
+R-35900,CAL|Bowl|Latino|AAD,GV - CALIENTE
+R-44635,CAL|Bowl|Milagro Brunch,GV - CALIENTE BRUNCH
+R-59593,CAL|Bowl|Mojo Pork,GV - CALIENTE
+R-57069,CAL|bowl|pozole,GV - CALIENTE
+R-68790,CAL|Bowl|Pozole-tots|AAD,GV - CALIENTE
+R-56647,CAL|Bowl|Quesadillia||AAD,SPECIALS
+R-17487,CAL|Bowl|Roja-tots|AAD,GV - CALIENTE
+R-61839,CAL|Bowl|Scramble-Mexi,GV - CALIENTE BRUNCH
+R-44634,CAL|Bowl|Siesta|AAD,GV - CALIENTE BRUNCH
+R-46511,CAL|Enchilada|Jalepeno ricotta,GV - CALIENTE
+R-54196,CAL|Enchilada|Spinach feta|AAD,SPECIALS
+R-61851,CAL|Pork breakfast bowl,GV - CALIENTE
+R-46549,CAL|Quesadilla|black bean tofu,GV - CALIENTE FEATURE
+R-53240,CAL|Quinoa enchilada|SPEC,GV - CALIENTE
+R-69619,CAL|Rst Pepper Quesadilla|AAD,SPECIALS
+R-45067,CAL|Sauce|Salsa Verde,GV - CALIENTE
+R-44784,CAL|Side|Brown Rice Chipotle,GV - CALIENTE BRUNCH
+R-44889,CAL|Side|Chips & Salsa,GV - CALIENTE
+R-44515,CAL|Side|Corn Elote,GV - CALIENTE
+R-44791,CAL|Side|Guacamole,GV - CALIENTE
+R-47363,CAL|Side|Pico de Gallo,GV - CALIENTE
+R-44520,CAL|Side|Potato Los Cabos,GV - CALIENTE BRUNCH
+R-36628,CAL|Side|Rice&Beans,GV - CALIENTE
+R-45102,CAL|Side|Sauce Corn Salsa,GV - CALIENTE
+R-46335,CAL|Side|Spanish Potatoes,GV - CALIENTE
+R-53289,CAL|Soup|Mexican Veggie|350ml,GV - CALIENTE
+R-35269,CAL|SOUP|Quinoa Tortilla|350ml,FOOD
+R-52755,CAL|Soup|SP,GV - CALIENTE
+R-50329,CAL|Soup|SP1,GV - CALIENTE
+R-50339,CAL|Soup|SP2,GV - CALIENTE
+R-65938,CAL|Soup|Tortilla + pork belly,GV - CALIENTE
+R-44511,CAL|Soup|Tortilla Chicken|350,GV - CALIENTE
+R-64102,CAL|Soup|Tortilla veggie|AAD,GV - CALIENTE
+R-70077,CAL|Spanish Pie|AAD,GV FRESH FARE DAY
+R-68789,CAL|taco|Bean& Hominy(1)|AAD,GV - CALIENTE
+R-70189,CAL|taco|Black Bean (1)|AAD,GV - CALIENTE
+R-62017,CAL|Taco|Cauliflower(1)AAD,GV - CALIENTE
+R-50330,CAL|Taco|Chicken BBQ(1)|AAD,GV - CALIENTE
+R-55298,CAL|Taco|ChickenMole|AAD,GV - CALIENTE
+R-50528,CAL|Taco|Chorizo|AAD,GV - CALIENTE FEATURE
+R-64940,CAL|Taco|crispy Chicken(1)|AAD,GV - CALIENTE
+R-70665,CAL|Taco|crispy prawn|AAD,OK - SQUARE MEAL
+R-69681,CAL|Taco|CumminChicken(1)|AAD,GV - CALIENTE
+R-64946,CAL|Taco|Jerk jackfruit (1),GV - CALIENTE
+R-35879,CAL|Taco|ocean wise|Cod(1)|AAD,GV - CALIENTE
+R-56711,CAL|Taco|Oceanwise|Prawn(1),GV - CALIENTE
+R-64439,CAL|Taco|Oceanwise|scallop(1),GV - CALIENTE FEATURE
+R-57237,CAL|Taco|Oceanwise|seaweed,SPECIALS
+R-61837,CAL|Taco|Oceanwise|Shrimp(1),GV - CALIENTE FEATURE
+R-66140,CAL|Taco|OW|cod fritter(1),GV - CALIENTE
+R-68791,CAL|Taco|Picadillo Beef(1)|AAD,GV - CALIENTE
+R-32940,CAL|taco|plant based|Bean&Rice,GV - CALIENTE
+R-57235,CAL|Taco|plant based|corn(1)|A,GV - CALIENTE FEATURE
+R-57238,CAL|Taco|plantbase|Tofu(1)|AAD,SPECIALS
+R-61835,CAL|Taco|Porkbellytajin(1)|AAD,GV - CALIENTE FEATURE
+R-44583,CAL|Taco|Pulled pork(1)|AAD,GV - CALIENTE
+R-55282,CAL|Taco|Steak(1)|AAD,GV - CALIENTE
+R-35882,CAL|Taco|Sweet Potato|1 pc|AAD,FT BUENO
+R-54173,CALI|Churros|THREE,SPECIALS
+R-54868,Calzone|Superbowl|Artichoke|SP,SPECIALS
+R-64399,ChickenDonair|popRS,SPECIALS
+R-62976,CONTAINER|Add Cup,OK - GRAB & GO
+R-12404,CONTAINER|Ceramic Mug,BEVERAGE
+R-19702,CONTAINER|Eco-To-Go ,Own Container
+R-63845,CONTAINER|Own Container ,Own Container
+R-13175,CONTAINER|Own Container Credit,Own Container
+R-63865,CONTAINER|Own Container.,Own Container
+R-63863,CONTAINER|Own Cup,Own Container
+R-63864,CONTAINER|Paper Cup Charge,SUPPLY
+R-45806,CONTAINER|Paper Cup Charge.,SUPPLY
+R-13572,CONTAINER|Take Out,SUPPLY
+R-30499,DEL|Des|Soft Serve|8oz,GV - DELISH
+R-50538,DEL|Panini|Chick&Brie,GV - DELISH
+R-50537,DEL|Panini|Fire roasted Farm,GV - DELISH
+R-50308,DEL|Panini|Margarita,GV - DELISH
+R-55095,DEL|Panini|Roasted Veg,GV - DELISH
+R-50304,DEL|Panini|SP,GV - DELISH
+R-49825,DEL|Pasta Pesto|Salad,GV - DELISH
 R-58379,DEL|Salad|Apple pecan ,GV - DELISH
+R-56869,DEL|Salad|avocado truf + egg,SPECIALS
 R-62269,DEL|Salad|Avocado truffle,SPECIALS
-R-55142,DEL|Salad|Baja goat cheese,GV - DELISH
+R-55142,DEL|Salad|Baja goat cheese|AAD,GV - DELISH
 R-64467,DEL|Salad|Baja|CHICKEN,GV - DELISH
 R-46547,DEL|Salad|Bandit,GV - DELISH
 R-62529,DEL|Salad|Bandit|Chicken,GV - DELISH
+R-43698,DEL|Salad|Blueberry BC,GV - DELISH
 R-50302,DEL|Salad|Caesar Classic,GV - DELISH
 R-62019,DEL|Salad|Caesar spicy,GV - DELISH
+R-61848,DEL|Salad|Cashew Slaw,GV - DELISH
 R-50301,DEL|Salad|Cobb ,GV - DELISH
 R-57281,DEL|Salad|Gather Greenery,GV - DELISH
 R-55144,DEL|Salad|Greek,GV - DELISH
+R-62530,DEL|Salad|Greek chicken,GV - DELISH
 R-44324,DEL|Salad|Marinated Tofu,GV - DELISH
 R-40545,DEL|Salad|Mediteranean Chicken,GV - DELISH
+R-62440,DEL|Salad|Mediteranean Salad,GV - DELISH
+R-57064,DEL|Salad|Pumpkin,GV - DELISH
+R-56656,DEL|Salad|Sesame shallot tofu,SPECIALS
+R-43694,DEL|Salad|Smoked BC Tofu,GV - DELISH
 R-56513,DEL|Salad|Spicy Caesar Chicken,GV - DELISH
+R-48119,DEL|Salad|Superfood Crunch|Sp,SPECIALS
+R-40587,DEL|Salad|Thai Chicken,GV - DELISH
+R-50300,DEL|Salad|Ubc Fresh,GV - DELISH
+R-40544,DEL|Salad|Warm Roast Vegetable,GV - DELISH
+R-46074,DEL|Smoothie-|Bna Almnd Buta,GV - DELISH
 R-56613,DEL|Smoothie|Almonds forever,GV - DELISH
+R-47777,DEL|Smoothie|Apple Cinnamon,GV - DELISH
 R-44306,DEL|Smoothie|Banana Matcha ,GV - DELISH
 R-43697,DEL|Smoothie|Blueberry Boost ,GV - DELISH
+R-50299,DEL|Smoothie|Bubble Tea,GV - DELISH
 R-55185,DEL|Smoothie|C++,GV - DELISH
 R-44591,DEL|Smoothie|Chocohlic ,GV - DELISH
 R-36817,DEL|Smoothie|Delish,GV - DELISH
@@ -243,62 +336,1557 @@ R-40466,DEL|Smoothie|Hawaiian Sun,GV - DELISH
 R-50298,DEL|Smoothie|Nojito,GV - DELISH
 R-36814,DEL|Smoothie|Orange Zinger,GV - DELISH
 R-36763,DEL|Smoothie|Rise & Shine,GV - DELISH
+R-49573,DEL|Smoothie|Shamrock Shake|Sp,GV - DELISH
 R-49036,DEL|Smoothie|Strwbry Cupid,GV - DELISH
+R-70824,DEL|Strawberry Salad|AAD,GV - DELISH
+R-53335,DES||Johnny's Apple Pie|Sp,SPECIALS
+R-13183,DES|Bar|Granola|UBC,GV - DESSERT
+R-39842,DES|Biscotti|Wendel's|Almond ,GV - DESSERT
+R-43028,DES|Bun|Hot Cross,GV - DESSERT
+R-32206,DES|Cake|Carrot Caramel Stack,GV - DESSERT
+R-32329,DES|Cake|Cheesecake GF,GV - DESSERT
+R-13852,DES|Cake|Cheesecake|New York,GV - DESSERT
+R-13162,DES|Cake|Ponderosa,GV - DESSERT
+R-22310,DES|Cake|Slice Asst,GV - DESSERT
+R-33951,DES|Cake|Toffee Sticky,GV - DESSERT
+R-65752,DES|Cake|Valentine Choco Heart,GV - DESSERT
+R-55145,DES|Cake|Valentine Lava Cake,GV - DESSERT
+R-38790,DES|Cheesecake|Chuckanut|Berry,GV - GRAB & GO
+R-38791,DES|Cheesecake|Chuckanut|Choco,GV - GRAB & GO
+R-33942,DES|Cheesecake|Chuckanut|GF,GV - DESSERT
+R-65651,DES|Cheesecake|Chucknut|Berry.,GV - GRAB & GO
+R-32314,DES|Cheesecake|Raspberry Yogur,OK - BAKERY/DESSERT
+R-13159,DES|Cinnamon Bun,GV - DESSERT
+R-53070,DES|Cookie|3 pack,GV - DESSERT
+R-53364,DES|Cookie|6 pack,GV - DESSERT
+R-67199,DES|Cookie|Choc Raspberr Cream,GV - DESSERT
+R-34888,DES|Cookie|Easter Egg|CK,GV - DESSERT
+R-66175,DES|Cookie|Easter Egg|Trump,GV - DESSERT
+R-55318,DES|Cookie|Ed's ValentineJumbo,GV - DESSERT
+R-19981,DES|Cookie|English Bay|Wrapped,GV - DESSERT
+R-47970,DES|Cookie|Festive Tree & Bell,GV - GRAB & GO
+R-38976,DES|Cookie|Halloween Choc,GV - DESSERT
+R-48911,DES|Cookie|Heart Valentine,GV - DESSERT
+R-38975,DES|Cookie|Pumkin Sugar,GV - DESSERT
+R-38961,DES|Cookie|Pumpkin|Trumps,GV - DESSERT
+R-49810,DES|Cookie|Shamrock,GV - DESSERT
+R-47968,DES|Cookie|Shortbread,GV - GRAB & GO
+R-13571,DES|Cookie|Supreme Asst,GV - DESSERT
+R-54028,DES|Cookie|Uncle Ed's|4 pack,GV - DESSERT
+R-54027,DES|Cookie|Uncle Ed's|6 pack,GV - DESSERT
+R-60972,DES|Cookie|Valentin Gingerbear,GV - DESSERT
+R-55087,DES|Cookie|Valentine Heart|CK,GV - DESSERT
+R-55088,DES|Cookie|Valentine Raspberry,GV - DESSERT
+R-39828,DES|Cookie|Wendel's|Almond,GV - DESSERT
+R-39841,DES|Cookie|Wendel's|Choc Chip,GV - DESSERT
+R-38944,DES|Cookie|Wendel's|Ginger,GV - DESSERT
+R-48910,DES|Cookie|Xmas|Ginger Bear,GV - DESSERT
+R-41180,DES|Cookie|Xmas|Gingersnap,GV - DESSERT
+R-54317,DES|Cookie|Xmas|Snowflake,GV - DESSERT
+R-41179,DES|Cookie|Xmas|Tree/Bell,GV - DESSERT
+R-64337,DES|Copenhage|HC,GV - GRAB & GO
+R-66176,DES|Cupcake|Easter|GF||Trump,GV - DESSERT
+R-64386,DES|Danish|Butterhorn|HC,GV - DESSERT
+R-49936,DES|Danish|Custard Crown,GV - DESSERT
+R-30518,DES|Danish|Greek Cherry Yogurt,GV - DESSERT
+R-64387,DES|Danish|Poppyhorn|HC,GV - DESSERT
+R-49938,DES|Danish|Raspberry Crown,GV - DESSERT
+R-13163,DES|Danish|Supreme Asst,GV - DESSERT
+R-16341,DES|Eclair|Chocolate,GV - DESSERT
+R-63858,DES|Eclair|Chocolate DON'T USE,GV - DESSERT
+R-14193,DES|Jello|Asst,GV - DESSERT
+R-13189,DES|Loaf|Sweet Asst,GV - DESSERT
+R-13174,DES|Muffin|Asst,GV - DESSERT
+R-54311,DES|Muffin|Blueberry|GF,GV - DESSERT
+R-13851,DES|Pie|Slice Asst,GV - DESSERT
+R-52986,DES|Pudding|Coco Rice.,GV - GRAB & GO
+R-13173,DES|Scone|Asst,GV - GRAB & GO
+R-34899,DES|Square|Choc Truffle Mousse,GV - GRAB & GO
+R-22315,DES|Square|Half Asst,GV - GRAB & GO
+R-38487,DES|Square|Mango Mousse,GV - DESSERT
+R-65524,DES|Square|Trump|Brownie|GF,GV - DESSERT
+R-67361,DES|Square|Trump|Brownie|GF.,GV - DESSERT
+R-38962,DES|Square|Wendel's|Brownie,GV - DESSERT
+R-39824,DES|Square|Wendel's|Brownies,GV - DESSERT
+R-41283,DES|Square|Wendel's|CarrotCake,GV - DESSERT
+R-38949,DES|Square|Wendel's|Nanaimo,GV - DESSERT
+R-22314,DES|Square|Whole Asst,GV - DESSERT
+R-22861,DES|Strudel|Asst,GV - DESSERT
+R-47009,DES|Tart||Pumpkin|CK,PRODUCTION FOOD
+R-34096,DES|Tart|Butter,GV - DESSERT
+R-66178,"DES|Tart|Easter|Lemon 4""|Trump",GV - DESSERT
+R-65532,DES|Tart|Fresh Fruit|Hillcrest,GV - DESSERT
+R-33536,DES|Tart|Lemon,GV - DESSERT
+R-41178,DES|Tart|Mincemeat|CK,PRODUCTION FOOD
+R-52681,DES|Tart|Trump|Hazelnut,GV - DESSERT
+R-52688,DES|Tart|Trump|Pecan,GV - DESSERT
+R-38960,DES|Tart|Trumps|Pumpkin ,GV - DESSERT
+R-38946,DES|Tart|Wendel's|Buttertart,GV - DESSERT
+R-38945,DES|Tart|Wendel's|Choc Pecan,GV - DESSERT
+R-53447,DIM SUM|Beef Balls (3),GV - DIM SUM
+R-54321,DIM SUM|Beef Stir Stirfry|SP,GV - DIM SUM
+R-14085,DIM SUM|Bun|BBQ Pork (1),GV - DIM SUM
+R-37741,DIM SUM|Bun|Chicken (1),GV - DIM SUM
+R-47286,DIM SUM|Bun|Vegetable (1),GV - DIM SUM
+R-54643,DIM SUM|Chicken Stirfry|SP,GV - DIM SUM
+R-52503,DIM SUM|Dry Pork Stirfry|SP,GV - DIM SUM
+R-49029,DIM SUM|Dumplings (3),GV - DIM SUM
+R-44499,DIM SUM|Egg Roll Veg (1),GV - DIM SUM
+R-49030,DIM SUM|Potstickers (3),GV - DIM SUM
+R-48636,DIM SUM|Soup|Wonton,GV - DIM SUM
+R-54645,DIM SUM|Tofu Stir Stirfry|SP,GV - DIM SUM
+R-37809,DIM SUM|Wrap Sticky Rice (1),GV - DIM SUM
+R-49569,DOD|Bouillabaisse|FLX,GV-FLEX DOD
+R-49568,DOD|Cone Seaweed Kimchi|POP,GV-FLEX DOD
+R-47099,DOD|Potato salad | Add tuna,GV-FLEX DOD
+R-47098,DOD|Potato salad|FLX,GV-FLEX DOD
+R-49836,DOD|Rice Coconut|SIDE ,GV-FLEX DOD
+R-49590,DOD|Scallop Salad|POP,GV-FLEX DOD
+R-49710,DOD|SideSousVide Sockeye|SIDE,GV-FLEX DOD
+R-49570,DOD|SousVide salmon|FLX,GV-FLEX DOD
+R-53312,Eat It|Empanada & Beans|POP,SPECIALS
+R-53324,Eat It|Glazed Chick Plate|POP,SPECIALS
+R-53316,Eat It|Stuffed Port Plate|POP,SPECIALS
+R-45162,FF|Avocado Egg (2 pcs),GV FRESH FARE DAY
+R-48916,FF|Beet Wellington,GV FRESH FARE DAY
+R-50313,FF|Bfast Sand|NEW PLANT BASED,GV - GRILL BREAKFAST
+R-54202,FF|Bibimbap Bowl|AAD,GV FRESH FARE DAY
+R-54754,FF|Blueberry toast|SP,SPECIALS
+R-37707,FF|Bowl|5 Alarm,GV FRESH FARE DAY
+R-64951,FF|Bowl|Asparagus scramble|AAD,GV FRESH FARE BREAKFAST
+R-40618,FF|Bowl|Baja Breakfast,GV FRESH FARE BREAKFAST
+R-48121,FF|Bowl|Bfast Mushroom Quinoa,SPECIALS
+R-27275,FF|Bowl|Black Bean Break|AAD,GV FRESH FARE BREAKFAST
+R-65942,FF|Bowl|chilimiso scramble|AAD,GV FRESH FARE BREAKFAST
+R-32886,FF|Bowl|Curried Chickpea|AAD,SPECIALS
+R-43738,FF|BOWL|Dobanjiang Noodle|AAD ,OK - VEGETARIAN KITCHEN
+R-57179,FF|Bowl|Fajita VEG|AAD,GV FRESH FARE DAY
+R-36666,FF|Bowl|Five Alarm,GV FRESH FARE DAY
+R-36575,FF|Bowl|Gather|AAD,GV FRESH FARE DAY
+R-54039,FF|Bowl|Kale|AAD,GV FRESH FARE DAY
+R-53815,FF|Bowl|Kambocha breakfast,GV FRESH FARE DAY
+R-55057,FF|Bowl|Mediterranean|AAD,GV FRESH FARE DAY
+R-64398,FF|Bowl|OysterMushroom|AAD,SPECIALS
+R-61859,FF|Bowl|Poached Egg Asparagus,GV FRESH FARE DAY
+R-65761,FF|Bowl|Poached Egg Zuc.|AAD,GV FRESH FARE DAY
+R-35341,FF|Bowl|Polenta|AAD,OK - SIDES
+R-50333,FF|Bowl|Roasted squash|AAD,GV FRESH FARE DAY
+R-65513,FF|Bowl|Salsa scramble|AAD,GV FRESH FARE BREAKFAST
+R-50334,FF|Bowl|SP2,GV FRESH FARE DAY
+R-55683,FF|Bowl|St Patricks day|SP,GV FRESH FARE DAY
+R-40621,FF|Bowl|Thai Coconut|AAD,GV FRESH FARE DAY
+R-51215,FF|Bowl|White bean breaky|AAD,GV FRESH FARE BREAKFAST
+R-67295,FF|BowlEggplant miso|AAD,GV GYAZA
+R-56895,FF|Brussel Sprout Pasta|AAD,OK - GLOBAL KITCHEN 
+R-64698,FF|Burger|TMRW mushroom crunch,GV FRESH FARE DAY
+R-44914,FF|Burger|Ultimate Veggie,GV FRESH FARE DAY
+R-37705,FF|Egg'sadilla,GV FRESH FARE BREAKFAST
+R-36647,FF|Egg'sadilla|Black Bean|AAD,GV FRESH FARE BREAKFAST
+R-70646,FF|Egg'sadilla|mango salsa|AAD,GV FRESH FARE BREAKFAST
+R-55942,FF|Falafel bowl|AAD,FEAST
+R-55482,FF|French toast & fruit|Sp,SPECIALS
+R-47287,FF|Omelet|Egg White ,GV FRESH FARE BREAKFAST
+R-70058,FF|Omelette|3Cheese|AAD,GV FRESH FARE BREAKFAST
+R-46495,FF|Omelette|Cheese +2|AAD,GV FRESH FARE BREAKFAST
+R-46496,FF|Omelette|Cheese +3|AAD,GV FRESH FARE BREAKFAST
+R-46497,FF|Omelette|Cheese|AAD,GV FRESH FARE BREAKFAST
+R-44705,FF|Omelette|Cheese|AAD +1,GV FRESH FARE BREAKFAST
+R-70095,FF|Omelette|Mushroom&Ched|AAD,GV FRESH FARE BREAKFAST
+R-71818,FF|Omelette|Pepper&Onion|AAD,ADD ONS
+R-44732,FF|Omelette|Shitake Mozza|AAD,ADD ONS
+R-70056,FF|Omelette|Spanish|AAD,GV FRESH FARE BREAKFAST
+R-70057,FF|Omelette|SpinachFeta|AAD,GV FRESH FARE BREAKFAST
+R-32742,FF|Overnight Oats,GV FRESH FARE BREAKFAST
+R-61853,FF|Overnight oats|AppleCin|AAD,GV FRESH FARE BREAKFAST
+R-61855,FF|Overnight oats|Bannana|AAD,GV FRESH FARE BREAKFAST
+R-66411,FF|Overnight oats|blue|AAD,GV FRESH FARE BREAKFAST
+R-69124,FF|Overnight oats|straw|AAD,GV FRESH FARE BREAKFAST
+R-56959,FF|Overnite oat|Strawberry|AAD,GV FRESH FARE BREAKFAST
+R-47827,FF|Pasta|Artichoke Penne|AAD,GV FRESH FARE FEATURE
+R-46347,FF|Pasta|Avocado Spin old,GV FRESH FARE DAY
+R-68820,FF|Pasta|blanco|AAD,SPECIALS
+R-68821,FF|Pasta|Duxcell Spaghetti|AAD,SPECIALS
+R-61911,FF|Pasta|Ravioli butternut|AAD,GV - FLEX BC
+R-36568,FF|Pasta|Spinach Avocado|AAD,GV FRESH FARE DAY
+R-69778,FF|pasta|Sundry tom penne|AAD,GV FRESH FARE DAY
+R-55234,FF|Pasta|Tomato basil|AAD,GV FRESH FARE DAY
+R-17140,FF|Perogies|Veg|AAD,GV FLEX GLOBAL BOWL
+R-64040,FF|Pumpkin pie,SPECIALS
+R-70822,FF|Quesadilla|AAD,GV FRESH FARE DAY
+R-56509,FF|Quesadilla|Breakfast|AAD,FT BUENO
+R-54608,FF|Ratatoullie|bowl|AAD,GV FRESH FARE FEATURE
+R-53778,FF|Ravioli Squash+ Pumpkin|AAD,SPECIALS
+R-47096,FF|Risotto|Mushroom|Herbs&chee,GV FRESH FARE FEATURE
+R-55151,FF|Risotto|Primavera|AAD,GV FRESH FARE FEATURE
+R-55148,FF|Risotto|Squash|Herbs&cheese,GV FRESH FARE FEATURE
+R-50534,FF|Salad|UBC Power|22/23,GV FRESH FARE FEATURE
+R-36574,FF|Salad|UBC Power|AAD,GV FRESH FARE DAY
+R-65755,FF|Sandwich|breakfast TMRW|AAD,GV FRESH FARE BREAKFAST
+R-56688,FF|Shakshuka|AAD,SPECIALS
+R-16992,FF|Side|Cornbread Jalapeno,GV FRESH FARE FEATURE
+R-50338,FF|Side|Papadum,GV FRESH FARE DAY
+R-37692,FF|Soup|Soba noodle,GV FRESH FARE DAY
+R-50694,FF|Spaghetti Puttanesca|AAD,GV FRESH FARE DAY
+R-56719,FF|Toast|Beans On Toast|AAD,GV FRESH FARE DAY
+R-61875,FF|Toast|Bruscetta|AAD,GV FRESH FARE DAY
+R-56718,FF|Toast|Farm Veg toast|AAD,GV FRESH FARE DAY
+R-61874,FF|Toast|Mushroom toast|AAD,GV FRESH FARE DAY
+R-61857,FF|Toast|Poached egg asparagus,GV FRESH FARE DAY
+R-68811,FF|Toast|primavera|AAD,GV FRESH FARE DAY
+R-65943,FF|Toast|Shaved fennel|AAD,GV FRESH FARE DAY
+R-36669,FF|Toast|Smashed Avocado|AAD,GV FRESH FARE DAY
+R-50332,FF|Toast|SP,GV FRESH FARE DAY
+R-36552,FF|Yaki Soba Miso Noodle|AAD,GV FRESH FARE DAY
+R-46867,FLX| Arancini|SP,SPECIALS
+R-57399,FLX|Add|chow|Salmon + Brocco,FOOD
+R-62362,FLX|Aloo gobi,GV FLEX GLOBAL BOWL
+R-62415,FLX|Arugula & vinaigrette,GV FLEX GLOBAL BOWL
+R-47102,FLX|Avocado Harissa Mash,GV-FLEX PLANT FORWARD
+R-62414,FLX|baked beans,GV - FLEX BC
+R-54786,FLX|Baked Chicken Alfredo|Sp,SPECIALS
+R-43867,FLX|Bao,GV FLEX BAO
+R-61963,FLX|Bao BBQ Pork x2| +1,GV FLEX BAO
+R-61962,FLX|Bao BBQ Pork x2| +2,GV FLEX BAO
+R-61964,FLX|Bao BBQ Pork(1)|AAD,GV FLEX BAO
+R-61974,FLX|Bao Mushroom|sides,GV FLEX BAO
+R-44885,FLX|Bao Shitake & Kimchi|AAD,GV FLEX BAO
+R-61960,FLX|Bao Shitake & Kimchix2| +1,GV FLEX BAO
+R-61961,FLX|Bao Shitake & Kimchix2| +2,GV FLEX BAO
+R-61972,FLX|Bao Thai chicken|x2,GV FLEX BAO
+R-61973,FLX|Bao Thai chicken|x2| +1,GV FLEX BAO
+R-54259,FLX|Bao Thai chicken|x2| +2,GV FLEX BAO
+R-44882,FLX|Bao|Bowl|Avocado & Egg,GV FLEX BAO
+R-40569,FLX|Bao|Bowl|Pork Belly,GV FLEX BAO
+R-51223,FLX|Bao|Bowl|Smoked Tofu,GV FLEX BAO
+R-44886,FLX|Bao|Bowl|Thai Chicken,GV FLEX BAO
+R-44881,FLX|Bao|Bun|Avocado & Egg,GV FLEX BAO
+R-54307,FLX|Bao|Bun|Pork Belly (1 ea),GV FLEX BAO
+R-50125,FLX|Bao|Bun|Portobello,GV FLEX BAO
+R-50558,FLX|Bao|Bun|Smoked Tofu,GV FLEX BAO
+R-40586,FLX|Bao|Bun|Thai Chicken|AAD,GV FLEX BAO
+R-61970,FLX|Bao|Mushroom|AAD,GV FLEX BAO
+R-61975,FLX|Bao|Mushroom|x2|+1,GV FLEX BAO
+R-62030,FLX|Bao|mushroom|x2|+2,GV FLEX BAO
+R-44883,FLX|Bao|Pork Belly|AAD,GV FLEX BAO
+R-62032,FLX|Bao|pork belly|x2|+1,GV FLEX BAO
+R-62031,FLX|Bao|pork belly|x2|+2,GV FLEX BAO
+R-50124,FLX|Bao|Salmon x 2,GV FLEX BAO
+R-10664,FLX|Bao|Side|Veg Egg Roll,GV FLEX BAO
+R-51251,FLX|BBP|Add On|Pork Belly,GV FLEX BAO
+R-65940,FLX|BBQ beans|SIDES,GV - SIDES
+R-28338,FLX|BBQ Ribs 170g and slaw,GV - FLEX BC
+R-40749,FLX|BBQ Ribs+1,GV - FLEX BC
+R-40750,FLX|BBQ Ribs+2,GV - FLEX BC
+R-54263,FLX|Beef and broccoli|SP,SPECIALS
+R-62376,FLX|Beef brisket| +1,GV - FLEX BC
+R-61934,FLX|Beef brisket| +3,GV - FLEX BC
+R-61930,FLX|beef brisket| 115g,GV - FLEX BC
+R-61932,FLX|Beef brisket|AAD ,GV - FLEX BC
+R-61914,FLX|Beef short rib +1,GV - FLEX BC
+R-61913,FLX|Beef Short Rib +2,GV - FLEX BC
+R-61915,FLX|Beef Short Rib 150g,GV - FLEX BC
+R-51464,FLX|Beef Short Ribs 150g V2,GV FLEX GLOBAL BOWL
+R-51465,FLX|Beef Short Ribs+1 V2,GV FLEX GLOBAL BOWL
+R-51466,FLX|Beef Short Ribs+2 V2,GV FLEX GLOBAL BOWL
+R-63855,FLX|Benny|Asparagus Mushroom,GV FLEX GLOBAL BOWL
+R-62001,FLX|Benny|Classic|AAD,GV FLEX GLOBAL BOWL
+R-68110,FLX|Benny|fennel|AAD,GV FLEX GLOBAL BOWL
+R-44758,FLX|Benny|Ham|AAD,GV FLEX GLOBAL BOWL
+R-62000,FLX|Benny|mushroom spin|AAD,GV FLEX GLOBAL BOWL
+R-62419,FLX|Benny|mushroom spin|x1,GV FLEX GLOBAL BOWL
+R-62420,FLX|Benny|salmon|x1,GV FLEX GLOBAL BOWL
+R-62006,FLX|Benny|spinach feta,GV FLEX GLOBAL BOWL
+R-61999,FLX|Benny|tomato,GV FLEX GLOBAL BOWL
+R-62418,FLX|Benny|Tomato|x1,GV FLEX GLOBAL BOWL
+R-55455,FLX|Beyond Spaghetti|PASTA,SPECIALS
+R-62359,FLX|Bok-choy,GV - FLEX ASIAN NOODLE
+R-55304,FLX|BPD||Adobo Chicken plate+1,GV - FLEX BC
+R-55305,FLX|BPD||Adobo Chicken plate+2,GV - FLEX BC
+R-57201,FLX|BPD|Add salmon,FOOD
+R-56497,FLX|BPD|Adobo Tofu veggie,GV - FLEX BC
+R-56867,FLX|BPD|Adobo Tofu veggie +1,GV - FLEX BC
+R-56868,FLX|BPD|Adobo Tofu veggie +2,GV - FLEX BC
+R-47210,FLX|BPD|Banh Mi Tofu,SPECIALS
+R-45119,FLX|BPD|Beet Wellington,FOOD
+R-57232,FLX|BPD|Beet Wellington|+1,FOOD
+R-57234,FLX|BPD|Beet Wellington|+2,FOOD
+R-57198,FLX|BPD|Chowder clam,GV - FLEX BC
+R-57400,FLX|BPD|Chowder clam|+1,GV - FLEX BC
+R-57401,FLX|BPD|Chowder clam|+2,GV - FLEX BC
+R-57374,FLX|BPD|Crispy potato,FOOD
+R-44636,FLX|BPD|Fried Scallion Rice,GV FLEX BAO
+R-57195,FLX|BPD|Grilled tempeh|add,FOOD
+R-57362,FLX|BPD|laksa ADD SIDE,FOOD
+R-57219,FLX|BPD|Lettuce wrap Tofu|+1,GV - FLEX BC
+R-57220,FLX|BPD|Lettuce wrap Tofu|+2,GV - FLEX BC
+R-57215,FLX|BPD|Ltc wrap Chicken|+1,SPECIALS
+R-57216,FLX|BPD|Ltc wrap Chicken|+2,SPECIALS
+R-57197,FLX|BPD|Perogies| +2,GV FLEX GLOBAL BOWL
+R-57196,FLX|BPD|Root vegetales,FOOD
+R-57208,FLX|BPD|squash stew one pot,GV - FLEX BC
+R-57211,FLX|BPD|squash stew one pot|+1,GV - FLEX BC
+R-57212,FLX|BPD|squash stew one pot|+2,GV - FLEX BC
+R-62413,FLX|Broccoli and cauliflower,GV - FLEX BC
+R-64093,FLX|Brown Rice ,GV - FLEX BC
+R-62385,FLX|Brown Rice pilaf,GV - FLEX BC
+R-62373,FLX|Brussel sprout roasted ,GV - FLEX BC
+R-56775,FLX|Butter chicken +1|AAD,GV FLEX GLOBAL BOWL
+R-56776,FLX|Butter chicken +2,GV FLEX GLOBAL BOWL
+R-44376,FLX|Butter Chicken|275g,GV FLEX GLOBAL BOWL
+R-57264,FLX|Butter tofu +1|AAD,GV FLEX GLOBAL BOWL
+R-57265,FLX|Butter tofu +2,GV FLEX GLOBAL BOWL
+R-57262,FLX|Butter Tofu 275g,GV FLEX GLOBAL BOWL
+R-47464,FLX|Cabbage Roll Pomme Anna,GV-FLEX PLANT FORWARD
+R-47104,FLX|Cabbage roll savoy,GV-FLEX PLANT FORWARD
+R-62375,FLX|Caesar salad,GV - FLEX BC
+R-51254,FLX|Carrot Noodle|PF,GV-FLEX PLANT FORWARD
+R-62411,FLX|Carrots and maple,GV - FLEX BC
+R-57392,FLX|Carrots|parsley + butter,GV - FLEX BC
+R-57228,FLX|Cassolet ham 250g,GV - FLEX BC
+R-57229,FLX|Cassolet ham|+1,GV - FLEX BC
+R-57230,FLX|Cassolet ham|+2,GV - FLEX BC
+R-53245,FLX|Cassolet veg 250g,GV - FLEX BC
+R-57222,FLX|Cassolet veg|+1,GV - FLEX BC
+R-57223,FLX|Cassolet veg|+2,GV - FLEX BC
+R-61981,FLX|Cauliflower fritters| +1,GV - FLEX BC
+R-61980,FLX|Cauliflower fritters| +2,GV - FLEX BC
+R-47105,FLX|Cauliflower gratin|PF ,GV - FLEX BC
+R-61924,FLX|cauliflower steak 150g,GV - FLEX BC
+R-61923,FLX|cauliflower steak| +1,GV - FLEX BC
+R-61922,FLX|Cauliflower steak| +2,GV - FLEX BC
+R-56856,FLX|Chicken Pot Pie +1,GV FLEX GLOBAL BOWL
+R-56857,FLX|Chicken Pot Pie +2,GV FLEX GLOBAL BOWL
+R-45059,FLX|Chicken Soba Noodle,GV - FLEX ASIAN NOODLE
+R-61948,FLX|Chicken Souvlaki|PLATE,FT HOMESKILLET
+R-65397,FLX|Chorizo Lasagna| +1,GV - FLEX BC
+R-65396,FLX|Chorizo Lasagna| +2,GV - FLEX BC
+R-64996,FLX|Chorizo Lasagna|300g,GV - FLEX BC
+R-54956,FLX|Chowder Chowdown|SP,SPECIALS
+R-43914,FLX|Chowder corn 240ml,GV - FLEX BC
+R-57203,FLX|Chowder corn|+1,GV - FLEX BC
+R-57199,FLX|Chowder corn|+2,GV - FLEX BC
+R-62292,FLX|Chowder|add salmon ,FOOD
+R-62390,FLX|Coconut steamed rice,GV FLEX BAO
+R-62392,FLX|coleslaw,GV - FLEX BC
+R-56630,FLX|Corn Tofu Succotash &slaw,GV - FLEX BC
+R-61966,FLX|corn Tofu succotash| +1,GV - FLEX BC
+R-61085,FLX|Corn Tofu Succotash|+2,GV - FLEX BC
+R-62372,FLX|Creamed corn,GV - FLEX BC
+R-62387,FLX|Cucumber sunomono,GV - FLEX ASIAN NOODLE
+R-62394,FLX|donot,GV - FLEX BC
+R-62393,FLX|donotuse,GV - FLEX BC
+R-48357,FLX|Eggs Benny|Smk Salmon|AAD,GV-FLEX DOD
+R-61993,FLX|Farm greenery ,GV - FLEX BC
+R-61992,FLX|Farm greenery| +1,GV - FLEX BC
+R-61990,FLX|Farm greenery| +2,GV - FLEX BC
+R-61977,FLX|Fish Fritters| +1,GV - FLEX BC
+R-45912,FLX|Fish Fritters|+2,GV - FLEX BC
+R-61978,FLX|Fish Fritters|160g| AAD,GV - FLEX BC
+R-30559,FLX|G&G|Dinner Roll,GV - GRAB & GO
+R-62369,FLX|Garlic cheesey toast,FOOD
+R-62374,FLX|Garlic mashed potatoes ,GV - FLEX BC
+R-44388,FLX|GBL|Bowl|Morocan Lamb Stew,GV FLEX GLOBAL BOWL
+R-62356,FLX|Ginger Broccoli ,GV - FLEX BC
+R-52040,FLX|GLB|Add on|Sliced Smokey,GV FLEX GLOBAL BOWL
+R-44750,FLX|GLB|Bowl|Farmers lunch  ,GV FLEX GLOBAL BOWL
+R-54557,FLX|GLB|Garlic Flatbread,GV FLEX GLOBAL BOWL
+R-55320,FLX|GLB|Steak & Veg Pot Pie,SPECIALS
+R-55604,FLX|GLB|Turkey Pot Pie,GV FLEX GLOBAL BOWL
+R-62358,FLX|Go-mai|broccoli,GV - FLEX ASIAN NOODLE
+R-54346,FLX|Go-mai|broccoli 140g,GV FLEX GLOBAL BOWL
+R-62378,FLX|Gravy chicken,GV - FLEX BC
+R-62029,FLX|Greek Chicken Skewer|+2,GV - FLEX BC
+R-32752,FLX|Greek Chicken Skewers(x2),GV - FLEX BC
+R-62380,FLX|Greek salad feta,GV - FLEX BC
+R-57210,FLX|grilled Leeks,GV - FLEX BC
+R-57193,FLX|Gyoza|Vegetable,GV - DIM SUM
+R-62379,FLX|hash| squash and tempeh,GV - FLEX BC
+R-62371,FLX|Honey glazed carrots,GV - FLEX BC
+R-62410,FLX|Kale & chard,GV - FLEX BC
+R-65672,FLX|Laksa eggplant Noodle +1,GV - FLEX ASIAN NOODLE
+R-65671,FLX|Laksa eggplant Noodle +2,GV - FLEX ASIAN NOODLE
+R-57051,FLX|Laksa Tofu +1,GV - FLEX ASIAN NOODLE
+R-57052,FLX|Laksa tofu +2,GV - FLEX ASIAN NOODLE
+R-43922,FLX|Laksa Tofu Noodle,GV - FLEX ASIAN NOODLE
+R-65254,FLX|Laksa|eggplant Tofu|AAD,GV - FLEX ASIAN NOODLE
+R-64446,FLX|Laksa|ling cod|AAD 100g,GV - FLEX ASIAN NOODLE
+R-45203,FLX|Laksa|Salmon|AAD,GV - FLEX ASIAN NOODLE
+R-17215,FLX|Lasagne Beef|SP,SPECIALS
+R-49823,FLX|Lasagne Chicken|SP,SPECIALS
+R-62381,FLX|Lemon roatsed potatoes ,GV - FLEX BC
 R-61887,FLX|lettuce wrap pork,GV - FLEX BC
 R-55059,FLX|Lettuce wrap Tofu,GV - FLEX BC
+R-64448,FLX|ling cod Laksa|+1,GV - FLEX ASIAN NOODLE
+R-64447,FLX|ling cod Laksa|+2,GV - FLEX ASIAN NOODLE
+R-47101,FLX|Maple Salmon Carrot Ndl,GV-FLEX PLANT FORWARD
+R-64748,FLX|Mashed potatoes ,GV - FLEX BC
+R-57185,FLX|Miso ramen| +1,GV - FLEX ASIAN NOODLE
+R-57194,FLX|MIso ramen| +2,GV - FLEX ASIAN NOODLE
+R-41308,FLX|Miso ramen|AAD,GV - FLEX ASIAN NOODLE
+R-69621,FLX|Palak Paneer|AAD,GV FLEX GLOBAL BOWL
+R-57807,FLX|Palak Paneer|side X 1,GV FLEX GLOBAL BOWL
+R-55168,FLX|Pasta Bar Plant Based,GV FLEX GLOBAL BOWL
+R-55166,FLX|Pasta Bar w Protein,GV FLEX GLOBAL BOWL
+R-56121,FLX|Pasta Bar|Alfredo,GV FLEX GLOBAL BOWL
+R-56120,FLX|Pasta Bar|Chorizo,GV FLEX GLOBAL BOWL
+R-56317,FLX|Pasta|Chicken Mac n Cheese,SPECIALS
+R-62286,FLX|Pasta|Mac & Cheese|+1|#1,GV - FLEX BC
+R-62287,FLX|Pasta|Mac & Cheese|+2|#1,GV - FLEX BC
+R-62285,FLX|Pasta|Mac & Cheese|350g #1,GV - FLEX BC
+R-61944,FLX|Pasta|Mac + cheese|+1,GV - FLEX BC
+R-61942,FLX|Pasta|mac + cheese|+3,GV - FLEX BC
+R-61435,FLX|Pasta|Mac + Cheese|350g,GV - FLEX BC
+R-61943,FLX|Pasta|Mac + cheese|AAD,GV - FLEX BC
+R-57303,FLX|Pasta|Meat & Spaghetti|+1,SPECIALS
+R-57305,FLX|Pasta|Meat & Spaghetti|+2,SPECIALS
+R-42254,FLX|Pasta|Meat Sce & Spaghetti,SPECIALS
+R-57306,FLX|Pasta|Meatball & Spag| +1,SPECIALS
+R-57307,FLX|Pasta|Meatball & Spag| +2,SPECIALS
+R-40603,FLX|Pasta|Meatball & Spaghetti,SPECIALS
+R-57068,FLX|PASTA|Penne and marinara,SPECIALS
+R-57312,FLX|Pasta|Primavera Spag| +1,SPECIALS
+R-57313,FLX|Pasta|Primavera Spag| +2,SPECIALS
+R-49596,FLX|Pasta|Primavera Spaghetti,SPECIALS
+R-61908,FLX|Pasta|Ravioli butternut,GV - FLEX BC
+R-61912,FLX|Pasta|Ravioli butternut +2,GV - FLEX BC
+R-54847,FLX|Pasta|Scallop & Spaghett,SPECIALS
+R-41830,FLX|Pasta|Tomato  & Spaghetti,SPECIALS
+R-17096,FLX|Penne|Alfredo|Baked,SPECIALS
+R-49747,FLX|Penne|GLB,SPECIALS
+R-46360,FLX|Perogies&Sausage|AAD,GV FLEX GLOBAL BOWL
+R-56862,FLX|PHO beef noodle +1,GV - FLEX ASIAN NOODLE
+R-56861,FLX|Pho Beef Noodle +2,GV - FLEX ASIAN NOODLE
+R-44766,FLX|Pho Beef Noodle|AAD,GV - FLEX ASIAN NOODLE
+R-56863,FLX|PHO Veg Noodle Soup +1,GV - FLEX ASIAN NOODLE
+R-56864,FLX|Pho Veg Noodle Soup +2,GV - FLEX ASIAN NOODLE
+R-44930,FLX|PHO Veg Noodle Soup|AAD,GV - FLEX ASIAN NOODLE
+R-61921,FLX|porchetta| +1,GV - FLEX BC
+R-61920,FLX|Porchetta| +2,GV - FLEX BC
+R-52676,FLX|Porchetta|150g,GV - FLEX BC
+R-49971,FLX|Pot Pie Beef|SP,GV FLEX GLOBAL BOWL
+R-62365,FLX|potato salad,GV - FLEX BC
+R-47103,FLX|Potato|Pomme Anna,GV-FLEX PLANT FORWARD
+R-26808,FLX|Quiche|3 Cheese|AAD,GV FLEX GLOBAL BOWL
+R-51258,FLX|Quiche|Denver|AAD,GV FLEX GLOBAL BOWL
+R-26809,FLX|Quiche|Ham&Cheese|AAD,GV FLEX GLOBAL BOWL
+R-71815,FLX|Quiche|Mediterranean|AAD,GV FLEX GLOBAL BOWL
+R-62003,FLX|Quiche|mushroom asparagus,GV FLEX GLOBAL BOWL
+R-62004,FLX|Quiche|Pork belly,GV FLEX GLOBAL BOWL
+R-57034,FLX|Quiche|Smoked Salmon|AAD,GV FLEX GLOBAL BOWL
+R-62005,FLX|Quiche|Spinach&Feta|AAD,GV FLEX GLOBAL BOWL
+R-62294,FLX|Quiche|Sundried tomato,GV FLEX GLOBAL BOWL
+R-62282,FLX|Ramen|ADD egg,GV - FLEX ASIAN NOODLE
+R-62416,FLX|roasted carrots,GV FLEX GLOBAL BOWL
+R-62377,FLX|Root veg and sage,GV - FLEX BC
+R-54729,FLX|Rotini & Veggie Pesto|SP,SPECIALS
+R-55086,FLX|Rotini Veggie SunDry Pesto,SPECIALS
+R-49585,FLX|Rotini|Primavera,SPECIALS
+R-54905,FLX|RotiniPuttanesca|SP,SPECIALS
+R-41831,FLX|Salad|Cold Winter Root Veg,GV - FLEX BC
+R-62040,FLX|Salad|Signature Greens,GV-FLEX PLANT FORWARD
+R-46998,FLX|Salad|WC Salmon BC ,GV - FLEX BC
+R-55847,FLX|Salmon Alfredo penne|SPEC,SPECIALS
+R-49990,FLX|Salmon Cakes|SP,SPECIALS
+R-61997,FLX|Salmon Chowder| +1,GV - FLEX BC
+R-61996,FLX|Salmon Chowder| +2,GV - FLEX BC
+R-52826,FLX|salmon chowder|AAD,SPECIALS
+R-56865,FLX|Salmon Laksa +1,GV - FLEX ASIAN NOODLE
+R-56866,FLX|Salmon Laksa +2,GV - FLEX ASIAN NOODLE
+R-48491,FLX|Salmon|BBQ,GV - FLEX BC
+R-47095,FLX|Salmon|BBQ Cedar Plate,GV - FLEX BC
 R-61883,FLX|Sesame shallot chicken,GV - FLEX BC
 R-61884,FLX|Sesame shallot chicken +1,GV - FLEX BC
 R-61889,FLX|Sesame shallot chicken +2,GV - FLEX BC
+R-61881,FLX|Sesame shallot salad,GV - FLEX BC
+R-61882,FLX|Sesame shallot salad +1,GV - FLEX BC
+R-61890,FLX|Sesame shallot salad +2,GV - FLEX BC
+R-61954,FLX|Shoyu Chicken +1,GV - FLEX BC
+R-45153,FLX|Shoyu Chicken +2|AAD,GV - FLEX BC
+R-61955,FLX|Shoyu Chicken 170g,GV - FLEX BC
+R-69236,FLX|Shoyu Salmon|AAD,GV - FLEX BC
+R-61958,FLX|Shoyu tofu 150g,GV - FLEX BC
+R-61957,FLX|Shoyu tofu| +1,GV - FLEX BC
+R-61956,FLX|Shoyu tofu| +2|AAD,GV - FLEX BC
+R-37051,FLX|Side Naan,GV FLEX GLOBAL BOWL
+R-49717,FLX|side|Bread|Garlic,GV FLEX GLOBAL BOWL
+R-62041,FLX|side|Citrus arugula,GV - FLEX BC
+R-61965,FLX|Side|Cornbread,GV - FLEX BC
+R-36875,FLX|Side|Quinoa Pilaf,GV FLEX GLOBAL BOWL
+R-53786,FLX|Side|Rice Brown,GV FLEX GLOBAL BOWL
+R-63846,FLX|Side|Roasted Potato,GV FLEX GLOBAL BOWL
+R-43902,FLX|Soba Noodle & Broccoli|NB,GV - FLEX ASIAN NOODLE
+R-61967,FLX|Spicy Soy Salmon 100g,GV - FLEX BC
+R-62035,FLX|Spicy Soy Salmon+1,GV - FLEX BC
+R-41086,FLX|Spicy Soy Salmon+2,GV - FLEX BC
+R-62288,FLX|Spicy Soy tofu 150g,GV - FLEX BC
+R-62290,FLX|Spicy Soy tofu|+1,GV - FLEX BC
+R-62289,FLX|Spicy Soy tofu|+2,GV - FLEX BC
+R-62417,FLX|Spinach creamed,GV - FLEX BC
+R-57379,FLX|Spinach Feta Tart ,GV - FLEX BC
+R-61951,FLX|Spinach Feta Tart|+1,GV - FLEX BC
+R-38665,FLX|Spinach Feta Tart|+2,GV - FLEX BC
+R-62357,FLX|Spring roll x 1 ,GV - FLEX ASIAN NOODLE
+R-64038,FLX|squash roast,GV - FLEX BC
+R-64037,FLX|squash roast|+1,GV - FLEX BC
+R-64036,FLX|squash roast|+2,GV - FLEX BC
+R-64035,FLX|squash roast|+3,GV - FLEX BC
+R-70730,FLX|Squash&Poblano Bake|AAD,GV FLEX GLOBAL BOWL
+R-62360,FLX|Steamed broccoli,GV - FLEX BC
+R-62386,FLX|steamed Gai-lan,GV - FLEX BC
+R-62389,FLX|Steamed green beans,GV - FLEX BC
+R-44768,FLX|Steamed Vegetables|NB,GV - FLEX ASIAN NOODLE
+R-47094,FLX|Stew beef one pot |240G,GV - FLEX BC
+R-57209,FLX|Stew beef one pot|+1,GV - FLEX BC
+R-57357,FLX|Stew beef one pot|+2,GV - FLEX BC
+R-62370,FLX|Stew beef one pot|+3,GV - FLEX BC
+R-48122,FLX|Stew|Lentil & Butternut,SPECIALS
+R-62433,FLX|Stuffing|Mushroom,GV - FLEX BC
+R-61983,FLX|Summer tomato,GV - FLEX BC
+R-61985,FLX|Summer tomato| +1,GV - FLEX BC
+R-61987,FLX|Summer tomato| +2,GV - FLEX BC
+R-62291,FLX|Summer tomato| +3,GV - DELISH
+R-55294,FLX|Sweet and sour tofu|SP,SPECIALS
+R-71075,FLX|Tandoori Chicken|AAD,GV FLEX GLOBAL BOWL
+R-62391,FLX|Tater tots,GV - FLEX BC
+R-61900,FLX|Tonkotsu Ramen +1,GV - FLEX ASIAN NOODLE
+R-61902,FLX|Tonkotsu Ramen +2,GV - FLEX ASIAN NOODLE
+R-57280,FLX|Tonkotsu Ramen|AAD,GV - FLEX ASIAN NOODLE
+R-61946,FLX|Turkey dinner| +1,GV - FLEX BC
+R-61945,FLX|Turkey dinner| +2,GV - FLEX BC
+R-58389,FLX|Turkey Dinner|+3,GV - FLEX BC
+R-62199,FLX|turkey roast|+4,GV - FLEX BC
+R-62025,FLX|Turkey Roast|140g,GV SIMPLY LOCAL
+R-62198,FLX|Turkey Roast|dinner 140g,GV - FLEX BC
+R-62299,FLX|Turkey Roast|Plate,GV SIMPLY LOCAL
+R-62027,FLX|Vegan hash|+2,GV - FLEX BC
+R-62026,FLX|Vegan hash|+3,GV - FLEX BC
+R-28396,FLX|Vegetarian Lasagna 300g,GV - FLEX BC
+R-61927,FLX|Vegetarian Lasagna| +1,GV - FLEX BC
+R-61928,FLX|Vegetarian Lasagna| +2,GV - FLEX BC
+R-56859,FLX|Veggie Pot Pie +1,GV FLEX GLOBAL BOWL
+R-56860,FLX|Veggie Pot Pie|AAD,GV FLEX GLOBAL BOWL
+R-62412,FLX|White bean and pesto,GV - FLEX BC
+R-50518,FLX|Yakitori| Maple Salmon,GV-FLEX YAKITORI
+R-50521,FLX|Yakitori|Chicken,GV-FLEX YAKITORI
+R-50516,FLX|Yakitori|Tamago(egg),GV-FLEX YAKITORI
+R-50514,FLX|Yakitori|Tofu,GV-FLEX YAKITORI
+R-50512,FLX|Yakitori|Zucchini,GV-FLEX YAKITORI
+R-56858,FLXVeggie Pot Pie +2,GV FLEX GLOBAL BOWL
+R-53785,FNH|Apple Crumble|Caramel|N13,SPECIALS
+R-53779,FNH|Autum Salad|N13,SPECIALS
+R-47593,FNH|Butternut mac and cheese,SPECIALS
+R-64451,FNH|chicken cacciatore|WIR,SPECIALS
+R-53783,FNH|Chicken&Couscous plate|N13,SPECIALS
+R-47595,FNH|Cholocate mousse,SPECIALS
+R-53992,FNH|Healthy Harvest Combo,SPECIALS
+R-64452,FNH|Lasagne|WIR,SPECIALS
+R-53787,FNH|Latte|Pumpkin spine|N13,SPECIALS
+R-53776,FNH|Pumpkin Soup|N13,SPECIALS
+R-47592,FNH|Rigatoni Baked,SPECIALS
+R-47594,FNH|S'mores,SPECIALS
+R-64453,FNH|tiramisu|WIR,SPECIALS
+R-47505,FREE|Beverage Promo,BEVERAGE
+R-53976,FREE|Coffee|12 oz|United Way,BEVERAGE
+R-47000,FREE|Green-To-Go|Apple Asst,GV - GRAB & GO
+R-47006,FREE|Green-To-Go|Banana,GV - GRAB & GO
+R-47001,FREE|Green-To-Go|Fruit,GV - GRAB & GO
+R-47747,FREE|Green-To-Go|Orange,GV - GRAB & GO
+R-49023,FREE|Greens||Smoked Tofu Salad,GV - DELISH
+R-48908,FREE|Greens|Avocado Eggs,GV FRESH FARE DAY
+R-55272,FREE|Greens|Avocado Harissa,GV-FLEX PLANT FORWARD
+R-41812,FREE|Greens|Baja  Bowl,GV FRESH FARE DAY
+R-49592,FREE|Greens|Blueberry BC Salad,GV - DELISH
+R-45986,FREE|Greens|Budda Bowl,GV FRESH FARE DAY
+R-45982,FREE|Greens|Five Alarm Bowl,GV FRESH FARE DAY
+R-55803,FREE|Greens|Five Alarm Bowl.,GV FRESH FARE DAY
+R-45981,FREE|Greens|Gather Bowl,GV FRESH FARE DAY
+R-53975,FREE|Greens|Latino Bowl,GV - CALIENTE
+R-53770,FREE|Greens|Marinated Tofu|,GV - DELISH
+R-39838,FREE|Greens|Overnight Bowl,GV FRESH FARE DAY
+R-41813,FREE|Greens|Pacific Rim Bowl,GV GYAZA
+R-54636,FREE|Greens|Salad|Ubc Fresh,GV - DELISH
+R-48766,FREE|Greens|Small Bowl|16oz,GV - SIDES
+R-48907,FREE|Greens|Soup|Pho Veg,GV - FLEX ASIAN NOODLE
+R-55090,FREE|Greens|Spin Avocado Pasta,GV FRESH FARE DAY
+R-53619,FREE|Greens|Thai Coconut|,GV FRESH FARE DAY
+R-55273,FREE|Greens|Ultimate Veg Burge,GV FRESH FARE DAY
+R-38537,FREE|Greens|Urban  Bowl,GV FRESH FARE DAY
+R-46994,FREE|Greens|Warm Rst Veg Salad,GV - DELISH
+R-38535,FREE|Milk Promo,BEVERAGE
+R-49588,FRUIT|Apple|Ambrosia,GV - FRUIT
+R-39817,FRUIT|Apple|BC Asst,GV - FRUIT
+R-37832,FRUIT|Apple|Fuji 113ct,GV - FRUIT
+R-13559,FRUIT|Apple|Fuji 64,GV - FRUIT
+R-13560,FRUIT|Apple|Gala,GV - FRUIT
+R-34989,FRUIT|Apple|Golden Delicious,GV - FRUIT
+R-13562,FRUIT|Apple|Granny Smith,GV - FRUIT
+R-49587,FRUIT|Apple|Macintosh,GV - FRUIT
+R-13563,FRUIT|Apple|Red Delicious,GV - FRUIT
+R-45802,FRUIT|Avocado,GV - FRUIT
+R-13945,FRUIT|Banana,GV - FRUIT
+R-17208,FRUIT|Blackberry|Basket,GV - FRUIT
+R-43299,FRUIT|Blackberry|Bskt,GV - FRUIT
+R-33923,FRUIT|Blueberry|Basket,GV - FRUIT
+R-53152,FRUIT|Blueberry|Basket.,GV - FRUIT
+R-13948,FRUIT|Canteloupe|1/4 cut,GV - FRUIT
+R-34983,FRUIT|Cup|Grape,GV - FRUIT
+R-13575,FRUIT|Cup|Grapes,GV - FRUIT
+R-34978,FRUIT|Grapefruit,GV - FRUIT
+R-13576,FRUIT|Honeydew 1/4 Cut,GV - FRUIT
+R-13566,FRUIT|Kiwi,GV - FRUIT
+R-38544,FRUIT|Lemon,GV - FRUIT
+R-42550,FRUIT|Lime,GV - FRUIT
+R-46333,FRUIT|Mandarin,GV - FRUIT
+R-46351,FRUIT|Nectarine,GV - FRUIT
+R-40891,FRUIT|Orange Cut,GV - FRUIT
+R-13564,FRUIT|Orange Whole,GV - FRUIT
+R-17222,FRUIT|Peach,GV - FRUIT
+R-16953,FRUIT|Pear|Asian,GV - FRUIT
+R-16240,FRUIT|Pear|Bartlet,GV - FRUIT
+R-21814,FRUIT|Pear|Red Anjous,GV - FRUIT
+R-46344,FRUIT|Plum,GV - FRUIT
+R-41020,FRUIT|Pomegranate,GV - FRUIT
+R-17207,FRUIT|Raspberry|Basket,GV - FRUIT
+R-17206,FRUIT|Strawberry|Basket,GV - FRUIT
+R-46346,FRUIT|Strawberry|Clam,GV - FRUIT
+R-45979,FRUIT|Watermelon Slice,GV - FRUIT
+R-54833,G&G |Chicken Alfredo| Packaged,SPECIALS
+R-56032,G&G |Pasta Tomato Sauce|Pack,SPECIALS
+R-54670,G&G |Penne Alfredo| Packaged,GV - GRAB & GO
+R-56123,G&G|Antipasto|SPEC,GV - GRAB & GO
+R-13164,G&G|Bagel Asst,GV - GRAB & GO
+R-49556,G&G|Bar|Apple Cinn|Made Good,GV - GRAB & GO
+R-54032,G&G|Bar|Camino|Bitter Sweet,GV - GRAB & GO
+R-54030,G&G|Bar|Camino|Espresso,GV - GRAB & GO
+R-54026,G&G|Bar|Camino|Milk,GV - GRAB & GO
+R-54031,G&G|Bar|Camino|Salted Caramel,GV - GRAB & GO
+R-49594,G&G|Bar|Granola|Mini Apple Cin,GV - GRAB & GO
+R-47002,G&G|Bar|Kashi|Chocolate Banana,GV - GRAB & GO
+R-47003,G&G|Bar|Kashi|Espresso Choco,GV - GRAB & GO
+R-47005,G&G|Bar|Kashi|Pistachio Fig,GV - GRAB & GO
+R-47004,G&G|Bar|Kashi|Raspberry Choco,GV - GRAB & GO
+R-42266,G&G|Bar|Kind| Almond Caramel,GV - GRAB & GO
+R-49856,G&G|Bar|Kind| Almond Coconut,GV - GRAB & GO
+R-41889,G&G|Bar|Kind| Almond Mocha ,GV - GRAB & GO
+R-49770,G&G|Bar|Kind| Honey Roast Nut,GV - GRAB & GO
+R-41599,G&G|Bar|Kind|Almond Coconut,GV - GRAB & GO
+R-52238,G&G|Bar|Kind|Almond Mint ,GV - GRAB & GO
+R-41833,G&G|Bar|Kind|Almond Sea Salt ,GV - GRAB & GO
+R-41888,G&G|Bar|Kind|Cashew Blueberry,GV - GRAB & GO
+R-52641,G&G|Bar|Kind|Cashew Raspberry,GV - GRAB & GO
+R-52642,G&G|Bar|Kind|Chia Apple Strawb,GV - GRAB & GO
+R-55425,G&G|Bar|Kind|Chia Mango Apple ,GV - GRAB & GO
+R-41890,G&G|Bar|Kind|Dark Choc Cherry,GV - GRAB & GO
+R-49718,G&G|Bar|Kind|Fruit & Nut,GV - GRAB & GO
+R-49833,G&G|Bar|Kind|Maple Glaze Pecan,GV - GRAB & GO
+R-41832,G&G|Bar|Kind|Peanut Butter ,GV - GRAB & GO
+R-19985,G&G|Bar|Nature's Path||Asst,GV - GRAB & GO
+R-56013,G&G|Bar|Nature|Mixed Nut,GV - GRAB & GO
+R-56012,G&G|Bar|Nature|Trail Fruit Nut,GV - GRAB & GO
+R-45970,G&G|Bar|Nutrigrain|Blueberry,GV - GRAB & GO
+R-52650,G&G|Bar|Nutrigrain|Mixed Berry,GV - GRAB & GO
+R-16249,G&G|Bar|Solo|Asst,GV - GRAB & GO
+R-38264,G&G|Bar|Solo|Chocolate,GV - GRAB & GO
+R-55274,G&G|Bar|Solo|Chocolate Brownie,GV - GRAB & GO
+R-38542,G&G|Bar|Solo|Chocolate Coconut,GV - GRAB & GO
+R-38543,G&G|Bar|Solo|ChocolateMandarin,GV - GRAB & GO
+R-38536,G&G|Bar|Solo|Lemon Lift,GV - GRAB & GO
+R-38263,G&G|Bar|Solo|Mocha Fudge,GV - GRAB & GO
+R-38545,G&G|Bar|Solo|Peanut Butter,GV - GRAB & GO
+R-54631,G&G|Bar|Solo|Peanut Caramel ,GV - GRAB & GO
+R-55416,G&G|Bar|Solo|Peanut Caramel.,GV - GRAB & GO
+R-38270,G&G|Bar|Solo|Peanut Power,GV - GRAB & GO
+R-38541,G&G|Bar|Solo|White Chocolate,GV - GRAB & GO
+R-64334,G&G|Biscuit|Ham & Cheese|HC,GV - GRAB & GO
+R-64899,G&G|Blackberry Tart|Uncle Ed,GV - GRAB & GO
+R-49032,G&G|Box|Valentine's,GV - GRAB & GO
+R-53421,G&G|Bread Pudding|SPEC,GV - GRAB & GO
+R-65760,G&G|Brownie 2-Bite|Bulk,GV - GRAB & GO
+R-55999,G&G|Burrito veg|SP,GV - GRAB & GO
+R-49033,G&G|Cakes Hearts(2),GV - GRAB & GO
+R-49034,G&G|Cakes Hearts(4),GV - GRAB & GO
+R-14081,G&G|Cereal Cold|Large| & Milk,GV - GRAB & GO
+R-14080,G&G|Cereal Cold|Large|Dry,GV - GRAB & GO
+R-14079,G&G|Cereal Cold|Small| & Milk,GV - GRAB & GO
+R-14078,G&G|Cereal Cold|Small|Dry,GV - GRAB & GO
+R-31287,G&G|Cereal Hot|Congee,GV - GRAB & GO
+R-56311,G&G|Cereal|Bear Naked|FruitNut,GV - GRAB & GO
+R-30954,G&G|Chicken Breast,GV - GRAB & GO
+R-56411,G&G|Chicken Stirfry|Tv Dinner,GV - GRAB & GO
+R-49350,G&G|Chips Coconut|Blue Monkey,GV - GRAB & GO
+R-39819,G&G|Chips|Hardbite|Bbq,GV - GRAB & GO
+R-63856,G&G|Chips|Hardbite|Beet|150g,GV - GRAB & GO
+R-39820,G&G|Chips|Hardbite|Jalapeno,GV - GRAB & GO
+R-39823,G&G|Chips|Hardbite|Natural,GV - GRAB & GO
+R-39821,G&G|Chips|Hardbite|Rocksalt,GV - GRAB & GO
+R-39822,G&G|Chips|Hardbite|Wild Onion,GV - GRAB & GO
+R-49342,G&G|Chips|Que Pasa|Tortilla,GV - GRAB & GO
+R-49340,G&G|Chips|Sun|Cheddar,GV - GRAB & GO
+R-49339,G&G|Chips|Sun|Onion,GV - GRAB & GO
+R-49341,G&G|Chips|Sun|Salsa,GV - GRAB & GO
+R-47535,G&G|Chips|Taro House-Made,GV - GRAB & GO
+R-49343,G&G|Chips|Terra|Exotic Veg,GV - GRAB & GO
+R-53236,G&G|Chips|Terra|Original|170g,GV - GRAB & GO
+R-55704,G&G|Choc Cheese Cake Portioned,GV - GRAB & GO
+R-55492,G&G|Choc Cheese Cake|Uncle Ed,GV - GRAB & GO
+R-66126,G&G|Choc Rice Pudding|Uncle Ed,GV - GRAB & GO
+R-65777,G&G|Choco Nut Bark|Uncle ED,GV - DESSERT
+R-55974,G&G|Chocolate Parfait|Pudding,GV - GRAB & GO
+R-56389,G&G|Choriza Penne|Packaged,GV - GRAB & GO
+R-65792,G&G|Chorizo Lasagna|pkg,GV - FLEX BC
+R-54632,G&G|Cinnamon Bun|Mini (4),GV - GRAB & GO
+R-54462,G&G|Cinnamon Bun|Mini (6),GV - GRAB & GO
+R-42268,G&G|Coconut Cluster|Cranberry,GV - GRAB & GO
+R-42269,G&G|Coconut Cluster|Dark Choco,GV - GRAB & GO
+R-46995,G&G|Coconut Cluster|Pumpkin,GV - GRAB & GO
+R-42270,G&G|Coconut Cluster|Super Seed,GV - GRAB & GO
+R-53835,G&G|Cornbread|Ed,GV - BAKERY
+R-47288,G&G|Croissant|Almond,GV - GRAB & GO
+R-45803,G&G|Croissant|Cheese,GV - GRAB & GO
+R-13161,G&G|Croissant|Chocolate,GV - GRAB & GO
+R-54319,G&G|Croissant|Chocolate|Mini 6,GV - GRAB & GO
+R-32328,G&G|Croissant|Ham & Cheese,GV - GRAB & GO
+R-30945,G&G|Croissant|Multigrain,GV - GRAB & GO
+R-13160,G&G|Croissant|Plain,GV - GRAB & GO
+R-45798,G&G|Croissant|Spinach Pepper ,GV - GRAB & GO
+R-56316,G&G|Crudite & Hummus|PV Made,GV - GRAB & GO
+R-49558,G&G|Cup|Almond Unsalted,GV - GRAB & GO
+R-48502,G&G|Cup|Banana Chips,GV - GRAB & GO
+R-47325,G&G|Cup|Bob's|Oats Apple ,GV - GRAB & GO
+R-47112,G&G|Cup|Bob's|Oats Blueberry,GV - GRAB & GO
+R-47285,G&G|Cup|Bob's|Oats Classic,GV - GRAB & GO
+R-47111,G&G|Cup|Bob's|Oats Maple,GV - GRAB & GO
+R-52647,G&G|Cup|Cereal|Asst,GV - GRAB & GO
+R-39831,G&G|Cup|Cereal|Corn Pops,GV - GRAB & GO
+R-42300,G&G|Cup|Cereal|Frosted Flakes,GV - GRAB & GO
+R-39840,G&G|Cup|Cereal|Fruit Loops,GV - GRAB & GO
+R-39830,G&G|Cup|Cereal|Rice Krispies,GV - GRAB & GO
+R-39829,G&G|Cup|Cereal|Special K,GV - GRAB & GO
+R-48501,G&G|Cup|Chocolate Almond Bark,GV - GRAB & GO
+R-49419,G&G|Cup|Chocolate Raisins,GV - GRAB & GO
+R-48467,G&G|Cup|Fruit Loop Medley,GV - GRAB & GO
+R-56030,G&G|Cup|Fruit|Dole Mango,GV - GRAB & GO
+R-48470,G&G|Cup|Mango Slice Dried,GV - GRAB & GO
+R-39833,G&G|Cup|Oats GF|Blueberry,GV - GRAB & GO
+R-41891,G&G|Cup|Oats GF|Cranberry ,GV - GRAB & GO
+R-41892,G&G|Cup|Oats GF|Flax ,GV - GRAB & GO
+R-39837,G&G|Cup|Oats GF|Raisin Almond,GV - GRAB & GO
+R-13172,G&G|Cup|Oats|Asst,GV - GRAB & GO
+R-48469,G&G|Cup|Pineapple Ring Dried,GV - GRAB & GO
+R-49560,G&G|Cup|Raw Energy Mix,GV - GRAB & GO
+R-49421,G&G|Cup|Strawberries Dried,GV - GRAB & GO
+R-48468,G&G|Cup|Yogurt Raisins,GV - GRAB & GO
+R-49932,G&G|Cupcake|Red Velvet (4),GV - GRAB & GO
+R-49931,G&G|Cupcake|Vanilla Bean (4),GV - GRAB & GO
+R-56092,G&G|Cutlet|Turkey (2 pc),GV - GRAB & GO
+R-54463,G&G|Danish Asst|Mini (4),GV - GRAB & GO
+R-48482,G&G|Donut|Chocolate|Package,GV - GRAB & GO
+R-48484,G&G|Donut|Glazed|Package,GV - GRAB & GO
+R-48483,G&G|Donut|Powdered|Package,GV - GRAB & GO
+R-38030,G&G|Egg Hard Boiled,GV - GRAB & GO
+R-53621,G&G|Empanada (2ea),SPECIALS
+R-41292,G&G|Energy Ball|Choco Peanut,GV - GRAB & GO
+R-41293,G&G|Energy Ball|Coconut Macada,GV - GRAB & GO
+R-41296,G&G|Energy Ball|Peanut Blast,GV - GRAB & GO
+R-49351,G&G|Fudge|Chocolate,GV - GRAB & GO
+R-49352,G&G|Fudge|Vanilla Swirl,GV - GRAB & GO
+R-42302,G&G|Gelato|Bar Asst,GV - GRAB & GO
+R-42303,G&G|Gelato|Bliss Bar Asst,GV - GRAB & GO
+R-41589,G&G|Gelato|Calipops Asst,GV - GRAB & GO
+R-42301,G&G|Gelato|Cono Pallo,GV - GRAB & GO
+R-42305,G&G|Gelato|Cups,GV - GRAB & GO
+R-42304,G&G|Gelato|Sandwich  Asst,GV - GRAB & GO
+R-64336,G&G|Gouda Bombs (3)|HC,GV - GRAB & GO
+R-56476,G&G|Ham Plate|Tv Dinner,GV - GRAB & GO
+R-58209,G&G|HMR|Paneer Cauliflower ,PRODUCTION FOOD
+R-58211,G&G|HMR|Spaghetti Meatball,PRODUCTION FOOD
+R-39818,G&G|Homestyle|Brownie 2-Bite ,GV - GRAB & GO
+R-41894,G&G|Homestyle|Macaroon 2-Bite,GV - GRAB & GO
+R-41893,G&G|Homestyle|Macaroon Choc ,GV - GRAB & GO
+R-54465,G&G|Jamaican Patty|Mild,GV - GRAB & GO
+R-54464,G&G|Jamaican Patty|Spicy,GV - GRAB & GO
+R-59344,G&G|JB|butter chicken,GV - GRAB & GO
+R-65508,G&G|JB|Palak Paneer,GV - GRAB & GO
+R-56010,G&G|Lamontagne|Almond,GV - GRAB & GO
+R-55996,G&G|Lamontagne|Cafe Almond,GV - GRAB & GO
+R-56011,G&G|Lamontagne|Coconut,GV - GRAB & GO
+R-56001,G&G|Lamontagne|Cranberry,GV - GRAB & GO
+R-56003,G&G|Lamontagne|Pistachio,GV - GRAB & GO
+R-56002,G&G|Lamontagne|Raisin,GV - GRAB & GO
+R-54672,G&G|Lasagna Meat|Package,GV - GRAB & GO
+R-54673,G&G|Lasagna Vegetable|Package,GV - GRAB & GO
+R-54763,G&G|Mac & Cheese|Packaged,GV - GRAB & GO
+R-49027,G&G|Macarons (4),GV - GRAB & GO
+R-49122,G&G|Macarons (8),GV - GRAB & GO
+R-54671,G&G|Meatball & Spaghetti|Pack,GV - GRAB & GO
+R-54797,G&G|Mini Choco Cake 1|Uncle ED,GV - GRAB & GO
+R-54798,G&G|Mini Choco Cake 6|Uncle Ed,GV - GRAB & GO
+R-54320,G&G|Mix Peanut Butter ChoclDIY,GV - GRAB & GO
+R-54789,G&G|Muffin|English,FOOD
+R-20319,G&G|Muffin|English,GV - GRAB & GO
+R-64433,G&G|Nutella Brownie|UncleED,GV - GRAB & GO
+R-56303,G&G|Pack|Cereal|Kellogg's Fun,GV - GRAB & GO
+R-48912,G&G|Parfait Rasp Cheescake,GV - GRAB & GO
+R-64388,G&G|Pizza Pretzel|HC,GV - DESSERT
+R-56091,"G&G|Pizza|6"" Asst",GV - GRAB & GO
+R-54459,G&G|Popcorn|Butter Sea Salt,GV - GRAB & GO
+R-54458,G&G|Popcorn|Dill Pickle,GV - GRAB & GO
+R-54460,G&G|Popcorn|Sea Salt,GV - GRAB & GO
+R-54461,G&G|Popcorn|White Cheddar,GV - GRAB & GO
+R-45983,G&G|Pot|Beans & Corn,PRODUCTION FOOD
+R-33937,G&G|Pot|Blueberry Chia,PRODUCTION FOOD
+R-45938,G&G|Pot|Chia Matcha ,PRODUCTION FOOD
+R-66134,G&G|Pot|Chia Pudding|Lemon Cur,PRODUCTION FOOD
+R-38984,G&G|Pot|Classic Hummus (Vegan),PRODUCTION FOOD
+R-47007,G&G|Pot|Crudite|Chipotle Humus,PRODUCTION FOOD
+R-50345,G&G|Pot|Crudite|Ranch Dressing,PRODUCTION FOOD
+R-54313,G&G|Pot|Eggnog Chia,PRODUCTION FOOD
+R-67343,G&G|Pot|Key Lime Chia,PRODUCTION FOOD
+R-45940,G&G|Pot|Mediterranean Salad,PRODUCTION FOOD
+R-45939,G&G|Pot|Over night Quinoa,PRODUCTION FOOD
+R-38096,G&G|Pot|Overnight Oats,PRODUCTION FOOD
+R-37723,G&G|Pot|Pudding Chia,PRODUCTION FOOD
+R-66133,G&G|Pot|Pudding Mango,PRODUCTION FOOD
+R-47008,G&G|Pot|Pumpkin Pie Chia,PRODUCTION FOOD
+R-33924,G&G|Pot|Salted Caramel Parfait,PRODUCTION FOOD
+R-52646,G&G|Pot|Seasonal Berry Yogurt,PRODUCTION FOOD
+R-65467,G&G|Pot|Seasonal Fruit Cup,PRODUCTION FOOD
+R-37733,G&G|Pot|Tropical Fruit.,PRODUCTION FOOD
+R-47011,G&G|Pot|Tropical Yogurt,PRODUCTION FOOD
+R-55089,G&G|Pot|Valentines Chia,PRODUCTION FOOD
+R-49818,G&G|Pot|Wild Berry Parfait,PRODUCTION FOOD
+R-46442,G&G|Pot|Wild Berry Yogurt,PRODUCTION FOOD
+R-65544,G&G|Potstickers (6),GV - GRAB & GO
+R-48486,G&G|Pretzel|Chocolate Caramel,GV - GRAB & GO
+R-55998,G&G|Protein|Pork Cutlet,GV - GRAB & GO
+R-56041,G&G|Pudding|Hunts Chocolate,GV - GRAB & GO
+R-56014,G&G|Pudding|Hunts Vanilla,GV - GRAB & GO
+R-54859,G&G|Quiche Breakfast|Asst,GV - GRAB & GO
+R-51179,G&G|Roast beef|Tv Dinner,GV - GRAB & GO
+R-54764,G&G|Rotini & Veggie Pesto,GV - GRAB & GO
+R-55319,G&G|Rotini Veggie SunDry Pesto,GV - GRAB & GO
+R-54251,G&G|Salad Asian|D19,SPECIALS
 R-37735,G&G|Salad|Caesar Kale,PRODUCTION FOOD
+R-38022,G&G|Salad|Caesar Kale Chicken,PRODUCTION FOOD
+R-55972,G&G|Salad|Caprese,GV - GRAB & GO
+R-52644,G&G|Salad|Cobb Chicken,PRODUCTION FOOD
+R-52643,G&G|Salad|Cobb Vegetarian,PRODUCTION FOOD
+R-52648,G&G|Salad|Crunchy Kale,PRODUCTION FOOD
+R-52649,G&G|Salad|Crunchy Kale Salmon,PRODUCTION FOOD
+R-38105,G&G|Salad|Fiesta Chicken,PRODUCTION FOOD
+R-38097,G&G|Salad|Fiesta Ensalada,PRODUCTION FOOD
+R-37740,G&G|Salad|Med Chickpea Chicken,PRODUCTION FOOD
+R-52669,G&G|Salad|Med Chickpea Salmon,PRODUCTION FOOD
+R-37736,G&G|Salad|Mediterran Chickpea,PRODUCTION FOOD
+R-37737,G&G|Salad|Nicoise Tofu,PRODUCTION FOOD
+R-56347,G&G|Salad|Pasta,GV - GRAB & GO
+R-56294,G&G|Salad|Wakame,GV - GRAB & GO
+R-56392,G&G|Salmon|Tv Dinner,GV - GRAB & GO
+R-37728,G&G|Sand|Bacon Cheddar Tomato,PRODUCTION FOOD
+R-37732,G&G|Sand|Cheese & Ham,PRODUCTION FOOD
+R-37730,G&G|Sand|Cranchier Chicken,PRODUCTION FOOD
 R-37738,G&G|Sand|Egg Salad Russian,PRODUCTION FOOD
 R-65798,G&G|Sand|Egg Salad Russian.,PRODUCTION FOOD
+R-37731,G&G|Sand|Falafel Casata,PRODUCTION FOOD
+R-37729,G&G|Sand|Salmon Salad.,PRODUCTION FOOD
+R-64335,G&G|Sausage Roll|HC,GV - GRAB & GO
+R-67302,G&G|Smoke Tofu Risotto|Ed,GRAB AND GO
+R-56305,G&G|Snack|Clover|Hummus,GV - GRAB & GO
+R-56038,G&G|Snack|Goldfish|Cheddar,GV - GRAB & GO
+R-56039,G&G|Snack|Goldfish|Original,GV - GRAB & GO
+R-56318,G&G|Snack|Jerky|Hot Sweet,GV - GRAB & GO
+R-56331,G&G|Snack|Jerky|Peppered,GV - GRAB & GO
+R-54648,G&G|Snack|Naked|Hearty Tamari,GV - GRAB & GO
+R-56007,G&G|Snack|Naked|Maple Almond,GV - GRAB & GO
+R-54649,G&G|Snack|Naked|Wasabi-Me,GV - GRAB & GO
+R-54650,G&G|Snack|Naked|Wholesome Yogi,GV - GRAB & GO
+R-56031,G&G|Snack|Nora|Tempura,GV - GRAB & GO
+R-13828,G&G|Spread|ButterMargarine|Ptn,GV - GRAB & GO
+R-13165,G&G|Spread|Cream Cheese|Ptn,GV - GRAB & GO
+R-13177,G&G|Spread|Jam & Peanut Butter,GV - GRAB & GO
+R-22218,G&G|Spread|Nutella|Ptn,GV - GRAB & GO
+R-19903,G&G|Stick|Marshmallow Chocolat,GV - GRAB & GO
+R-47967,G&G|Sushi|Avocado Roll (12),GV - GRAB & GO
+R-41843,G&G|Sushi|Avocado Roll (6),GV - GRAB & GO
+R-37373,G&G|Sushi|California Roll,GV - GRAB & GO
+R-63853,G&G|Sushi|California Roll Comb,GV - GRAB & GO
+R-63854,G&G|Sushi|California Roll.,GV - GRAB & GO
+R-41842,G&G|Sushi|Cucmber Roll ,GV - GRAB & GO
+R-30004,G&G|Sushi|Cucumber Roll,GV - GRAB & GO
+R-29820,G&G|Sushi|Fuji Roll Combo,GV - GRAB & GO
+R-63851,G&G|Sushi|Fuji Roll Combo.,GV - GRAB & GO
+R-63850,G&G|Sushi|Japanese Pork Dumpl.,GV - GRAB & GO
+R-48639,G&G|Sushi|Japanese Pork Dumpli,GV - GRAB & GO
+R-30006,G&G|Sushi|Philadelphia  Roll,GV - GRAB & GO
+R-63848,G&G|Sushi|Philadelphia Roll,GV - GRAB & GO
+R-30173,G&G|Sushi|Red Dragon Roll,GV - GRAB & GO
+R-41844,G&G|Sushi|Salmon Roll (6),GV - GRAB & GO
+R-32332,G&G|Sushi|Smoked Tofu Roll,GV - GRAB & GO
+R-37374,G&G|Sushi|Spicy California,GV - GRAB & GO
+R-63849,G&G|Sushi|Spicy California.,GV - GRAB & GO
+R-41847,G&G|Sushi|Spicy Salmon Roll,GV - GRAB & GO
+R-41846,G&G|Sushi|Spicy Tuna Roll,GV - GRAB & GO
+R-41845,G&G|Sushi|Tuna Roll ,GV - GRAB & GO
+R-22968,G&G|Sushi|Vegetable Salad Roll,FT GRAB & GO
+R-13891,G&G|Toast Slice,GV - GRAB & GO
+R-55971,G&G|Tortilla Chips & Salsa,GV - GRAB & GO
+R-53371,G&G|Uncle Ed Apple Pie|Piece,SPECIALS
+R-53607,G&G|Uncle Ed Peach Pie Piece,SPECIALS
+R-53805,G&G|Uncle Ed's BC Pie|piece,GV - GRAB & GO
+R-53990,G&G|Uncle Ed's Cornbread,GV - GRAB & GO
+R-53380,G&G|Uncle Ed's Crumble,SPECIALS
+R-54635,G&G|Veggie-Go|Beet  Apple Cinn,GV - GRAB & GO
+R-54633,G&G|Veggie-Go|Berry Spinach,GV - GRAB & GO
+R-54634,G&G|Veggie-Go|Sweet Potato,GV - GRAB & GO
+R-55269,G&G|Waffle|Gluten Free,GV - GRAB & GO
+R-30678,G&G|Wrap|Beef,GV - GRAB & GO
+R-39835,G&G|Wrap|Bkfstt|Ham & Cheese,PRODUCTION FOOD
+R-64343,G&G|Wrap|Bkfstt|Ham & Cheese.,PRODUCTION FOOD
+R-39834,G&G|Wrap|Bkfstt|Mediterranean,PRODUCTION FOOD
+R-13166,G&G|Wrap|Butter Chicken,GV - GRAB & GO
+R-13178,G&G|Wrap|Chickpea & Spinach,GV - GRAB & GO
+R-42573,G&G|Yogurt|Blueberry|Stirred,GV - GRAB & GO
+R-42548,G&G|Yogurt|Fieldberry|Stirred,GV - GRAB & GO
+R-38037,G&G|Yogurt|French Vanilla|FF,GV - GRAB & GO
+R-38047,G&G|Yogurt|Greek|Asst,GV - GRAB & GO
+R-38547,G&G|Yogurt|Greek|Blueberry,GV - GRAB & GO
+R-38546,G&G|Yogurt|Greek|Strawberry,GV - GRAB & GO
+R-47012,G&G|Yogurt|Greek|Vanilla,GV - GRAB & GO
+R-38104,G&G|Yogurt|Peach|FF,GV - GRAB & GO
+R-42549,G&G|Yogurt|Peach|Stirred,GV - GRAB & GO
+R-38038,G&G|Yogurt|Raspberry|FF,GV - GRAB & GO
+R-38965,G&G|Yogurt|Raspberry|Stirred,GV - GRAB & GO
+R-38025,G&G|Yogurt|Strawberry|FF,GV - GRAB & GO
+R-45991,G&G|Yogurt|Strawberry|Stirred,GV - GRAB & GO
+R-42551,G&G|Yogurt|Strawberry|Stirred,GV - GRAB & GO
+R-68202,GLB|Sesame Tofu & Broccoli,OK - GLOBAL KITCHEN 
+R-54377,GR|Sandwich|Classic BLT|AAD,SANDWICHES
+R-63584,GREEN2GO - CREDIT,FOOD - MISC
+R-63583,GREEN2GO - DEPOSIT,FOOD - MISC
+R-63592,GREEN2GO - REFUND,FOOD - MISC
+R-51990,GRL|Add|Bacon x2 slices,ADD ONS
+R-45467,GRL|ADD|Benny|Ham,ADD ONS
+R-44764,GRL|Add|Cheese|Ratio,ADD ONS
+R-46329,GRL|ADD|Chicken Thigh (2),GV GRILL DAY
+R-53406,GRL|Add|Ham|28g,ADD ONS
+R-51989,GRL|Add|Mushroom,ADD ONS
+R-52651,GRL|Add|PickledVeg,ADD ONS
+R-45468,GRL|Add|Spinach cooked,GV GRILL DAY
+R-54731,GRL|Adobo Chicken plate|SP,SPECIALS
+R-55623,GRL|Adobo pork plate|SP,SPECIALS
+R-55426,GRL|Afritada plate|SP,SPECIALS
+R-56799,GRL|Alarm clock sandwich|G&G,SPECIALS
+R-70604,GRL|Bacon Cheddar Dog|AAD,SPECIALS
+R-70294,GRL|Bacon&Egg Bun|AAD,GV - GRILL BREAKFAST
+R-55626,GRL|BBQ Chicken|PLATE|SP,SPECIALS
+R-64993,GRL|BBQ Pork Sandwich,GV GRILL FEATURE
+R-55514,GRL|Beef Mac n Cheese|SP,GV GRILL DAY
+R-70053,GRL|Beef Pares|AAD,GV - FLEX BC
+R-51583,GRL|BeefCaldereta+1,SPECIALS
+R-51315,GRL|BeefCaldereta+2,SPECIALS
+R-51263,GRL|BeefCaldereta|PORTION,SPECIALS
+R-56070,GRL|Belly Kimchi Sand|SP,SPECIALS
+R-50312,GRL|Benny |Avocado spinach|AAD,GV - GRILL BREAKFAST
+R-62409,GRL|Benny classic|X1,SPECIALS
+R-55646,GRL|Benny PulledPork|AAD,GV - GRILL BREAKFAST
+R-50520,GRL|Benny Week3|SP,GV GRILL FEATURE
+R-53816,GRL|Benny week4|SP,GV GRILL FEATURE
+R-62002,GRL|Benny|Asparagus|AAD,GV GRILL BRUNCH
+R-54003,GRL|Benny|Chorizo X2,GV - GRILL BREAKFAST
+R-44890,GRL|Benny|Classic X2,GV - GRILL BREAKFAST
+R-68109,GRL|Benny|Crispy chicken|AAD,GV - GRILL BREAKFAST
+R-50515,GRL|Benny|florentine|FT,GV GRILL FEATURE
+R-62012,GRL|Benny|Ham & mustard|AAD,GV GRILL FEATURE
+R-45469,GRL|Benny|Lemon Truffle,GV - GRILL BREAKFAST
+R-61998,GRL|Benny|Salmon|FLX,GV FLEX GLOBAL BOWL
+R-50519,GRL|Benny|Salmon|FT,GV GRILL BRUNCH
+R-69443,GRL|Bfast Sandwich|VEGAN,SPECIALS
+R-65246,GRL|Bfast sausage muffin TMRW,GV - GRILL BREAKFAST
+R-56157,GRL|Big Burger|kimchiBacon|AAD,GV GRILL FEATURE
+R-44655,GRL|Big Burger|Lumberjack|AAD,GV GRILL DAY
+R-57039,GRL|Big Burger|The beast|,GV GRILL FEATURE
+R-61824,GRL|BOWL|Asparagus poached egg,GV - GRILL BREAKFAST
+R-36644,GRL|Bowl|Campus Meat,GV - GRILL BREAKFAST
+R-38111,GRL|Bowl|Campus Veg,GV - GRILL BREAKFAST
+R-44024,GRL|Bowl|Gather & Run|AAD,GV - GRILL BREAKFAST
+R-48488,GRL|BOWL|Huevos Rancheros|AAD,GV - GRILL BREAKFAST
+R-44650,GRL|Bowl|Professors|Breakfast,GV - GRILL BREAKFAST
+R-68107,GRL|Bowl|Thunderbird Breakfast,GV GRILL BRUNCH
+R-62028,GRL|bowl|Vegan hash|,GV GRILL BRUNCH
+R-44316,GRL|BOWL|White Bean|AAD,GV - GRILL BREAKFAST
+R-36642,GRL|Breakfast|Signature|Ratio,GV - GRILL BREAKFAST
+R-53407,GRL|Breakfast|Waffle Fresh ,GV - GRILL BREAKFAST
+R-61844,GRL|BreakfastBurritoBowl|AAD,GV - GRILL BREAKFAST
+R-68382,GRL|Brocco fritters|AAD,GV GRILL DAY
+R-55424,GRL|Burger|Adobo chicken|SP,SPECIALS
+R-68378,GRL|Burger|Alumni|AAD,GV GRILL DAY
+R-36098,GRL|Burger|Alumni|bacon cheese,GV GRILL DAY
+R-65248,GRL|Burger|BBQ TMRW |AAD,GV GRILL DAY
+R-48117,GRL|Burger|Beyond Better|Sp,SPECIALS
+R-53050,GRL|Burger|Beyond Crunch,GV GRILL FEATURE
+R-69702,GRL|Burger|Cod|AAD,GV GRILL DAY
+R-69135,GRL|Burger|Greek TMRW|AAD,GV GRILL DAY
+R-53579,GRL|Burger|Jackfruit|AAD,GV GRILL FEATURE
+R-51200,GRL|Burger|mushroom mountain,GV GRILL FEATURE
+R-50118,GRL|Burger|Pork|blue cheese,SPECIALS
+R-61830,GRL|Burger|Portobello|AAD,GV GRILL DAY
+R-54038,GRL|Burger|Quinoa Yam|SP,SPECIALS
+R-44931,GRL|Burger|Salmon|AAD,GV GRILL DAY
+R-70492,GRL|Burger|Swiss Mushroom|AAD,GV GRILL DAY
+R-54867,GRL|Calzone|blend|SP,SPECIALS
+R-61982,GRL|Cauliflower Bites|AAD 160g,GV GRILL DAY
+R-53471,GRL|Cheese Burger Roll,SPECIALS
+R-44779,GRL|Chick Wings|W/O Gluten|AAD,GV GRILL DAY
+R-70742,GRL|Chicken BahnMi|AAD,GV GRILL FEATURE
+R-56137,GRL|Chicken Burger|Buffalo,SPECIALS
+R-55469,GRL|Chicken Burger|Cajun|AAD,GV GRILL FEATURE
+R-28251,GRL|Chicken Burger|Guaco bacon,GV GRILL DAY
+R-56454,GRL|Chicken Burger|Maui|AAD,GV GRILL DAY
+R-45150,GRL|Chicken Burger|Shoyu|AAD,GV GRILL DAY
+R-43964,GRL|ChickenBur|Thai Chili|AAD,GV GRILL DAY
+R-52133,GRL|Chili Dog|AAD,SPECIALS
+R-71077,GRL|Corn Beef Onion Bun|AAD,GV GRILL DAY
+R-51146,GRL|Crepe|Ham and Swiss|AAD,GV GRILL DAY
+R-67745,GRL|Crepe|Mushroom Swiss|AAD,GV - GRILL BREAKFAST
+R-50569,GRL|Crepe|Nutella Banana,OK - GRILL KITCHEN BREAKFAST
+R-50570,GRL|Crepe|Peach|AAD,OK - GRILL BRUNCH
+R-70292,GRL|DB Cheese Bagel Melt|AAD,GV GRILL DAY
+R-38256,GRL|Egg Any Style,GV - GRILL BREAKFAST
+R-36654,GRL|Egg|Scrambled|AAD,GV - GRILL BREAKFAST
+R-45461,GRL|Eggs|Poached perfectly ,GV - GRILL BREAKFAST
+R-53788,GRL|English Muffin Sand|AAD,GV - GRILL BREAKFAST
+R-49843,GRL|Fish and Chips|AAD,SPECIALS
+R-53150,GRL|French Toast (2) Special,SPECIALS
+R-69126,GRL|French Toast Black|AAD,GV GRILL BRUNCH
+R-68973,GRL|French Toast Raz |AAD,GV GRILL BRUNCH
+R-49404,GRL|French Toast straw |AAD,GV GRILL BRUNCH
+R-70675,GRL|French Toast|BlueBerry|AAD,GV GRILL BRUNCH
+R-70676,GRL|French Toast|mangopin|AAD,GV GRILL BRUNCH
+R-51383,GRL|Gather breakfast|RATIO,GV - GRILL BREAKFAST
+R-55155,GRL|Get to class sandwich|FT,GV - GRILL BREAKFAST
+R-50669,GRL|Grilled Cheese|Bacon Avo,GV GRILL FEATURE
+R-50668,GRL|Grilled Cheese|Jalapeno,GV GRILL FEATURE
+R-68406,GRL|Grilled Cheese|kimchi|AAD,GV GRILL FEATURE
+R-36139,GRL|GrilledCheese|Classic|AAD,GV GRILL DAY
+R-70493,GRL|GrilledCheese|Ham|AAD,GV GRILL FEATURE
+R-62514,GRL|GrilledCheese|sundry&goat,GV GRILL DAY
+R-50798,GRL|Grl Cheese|Swiss apple|FT,GV GRILL FEATURE
+R-70295,GRL|Ham&Cheese Scramble|AAD,GV - GRILL BREAKFAST
+R-44915,GRL|Hash|Lemon Truffle Delux,GV - GRILL BREAKFAST
+R-70016,GRL|Justegg|omellet,SPECIALS
+R-55005,GRL|Kalderta beef plate|SP,SPECIALS
+R-70820,GRL|LemongrassChicken|AAD,GV GRILL DAY
+R-62402,GRL|Lettuce Bun|Substituion ,GV GRILL DAY
+R-55560,GRL|Mac&Cheese|SP,SPECIALS
+R-47390,GRL|Meatball Sub|AAD,GV GRILL FEATURE
+R-70697,GRL|Mexi Scramble|AAD,GV - GRILL BREAKFAST
+R-53149,GRL|Pancakes (2) Special,SPECIALS
+R-68108,GRL|Pancakes|apple cin|AAD(1),GV - GRILL BREAKFAST
+R-37704,GRL|Pancakes|Bacon (3),GV - GRILL BREAKFAST
+R-55513,GRL|Pancakes|Banana|AAD (1),SPECIALS
+R-68119,GRL|Pancakes|Blackberry (2ea),GV - GRILL BREAKFAST
+R-36646,GRL|Pancakes|Blueberry|AAD,GV - GRILL BREAKFAST
+R-70013,GRL|Pancakes|chocochip|AAD,GV - GRILL BREAKFAST
+R-70674,GRL|Pancakes|mangoPine|AAD,GV - GRILL BREAKFAST
+R-68120,GRL|Pancakes|Strawb+Rhub|AAD,GV - GRILL BREAKFAST
+R-68099,GRL|Pancakes|Strawberry|AAD ,GV - GRILL BREAKFAST
+R-70018,GRL|Pancakes|walnutcoulisAAD,GV - GRILL BREAKFAST
+R-44762,GRL|Pasta|Mac n Cheese,GV GRILL DAY
+R-53419,GRL|Plant base dog 1|AAD,SPECIALS
+R-55968,GRL|Pork Parmigiano|Sp,SPECIALS
+R-44778,GRL|Poutine| Pulled Pork,GV GRILL DAY
+R-54951,GRL|Poutine|Chicken Skin|SP,GV GRILL DAY
+R-44775,GRL|Poutine|Classic|AAD,GV GRILL DAY
+R-57094,GRL|Poutine|Jalepeno|AAD,GV GRILL DAY
+R-44777,GRL|Poutine|Mushroom,GV GRILL DAY
 R-60982,GRL|Prawn po-boy|FT,GV GRILL FEATURE
+R-68405,GRL|Pulled Pork Sandwich|AAD,GV - GRILL BREAKFAST
+R-57073,GRL|Quiche pork belly|G&G,FOOD
+R-55710,GRL|Quiche|G&G,SPECIALS
+R-58246,GRL|Salad|Bandit|Side,GV GRILL DAY
 R-34864,GRL|Salad|Chef,OK - GRILL KITCHEN DAY
 R-61740,GRL|Salad|Chop Chop,OK - GRILL KITCHEN DAY
+R-65756,GRL|Salad|Gather Greenery|SIDE,GV - SIDES
+R-65762,GRL|Salad|Gather Side|DON'T US,GV GRILL DAY
+R-50894,GRL|Salad|Gather|AAD,GV - SIDES
+R-35749,GRL|Salad|Honey Sesame Chicken,OK - GRILL KITCHEN DAY
 R-56461,GRL|Salad|Nicoise,OK - GRILL BRUNCH
-R-43886,SAND|Falafel Full Build,GV-SANDWICH
-R-56539,VEG|Hulk Bowl,OK- VEGETARIAN KITCHEN FEATURE
-R-54947,CAL|Black bean soup|AAD,GV - CALIENTE
-R-55154,CAL|Bowl|Guacamole|AAD,GV - CALIENTE
-R-62018,CAL|Bowl|Havana|Add Chicken,GV - CALIENTE
-R-64909,CAL|Bowl|Havana|Add Scallop,GV - CALIENTE
-R-35896,CAL|Bowl|Havana|Plant based,GV - CALIENTE
-R-35900,CAL|Bowl|Latino|AAD,GV - CALIENTE
-R-68790,CAL|Bowl|Pozole-tots|AAD,GV - CALIENTE
-R-17487,CAL|Bowl|Roja-tots|AAD,GV - CALIENTE
-R-44634,CAL|Bowl|Siesta|AAD,GV - CALIENTE BRUNCH
-R-46511,CAL|Enchilada|Jalepeno ricotta,GV - CALIENTE
-R-56647,CAL|quesadillia|bowl,SPECIALS
-R-69619,CAL|Rst pepper quesadilla|AAD,SPECIALS
-R-44889,CAL|Side|Chips & Salsa,GV - CALIENTE
-R-44791,CAL|Side|Guacamole,GV - CALIENTE
-R-47363,CAL|Side|Pico de Gallo,GV - CALIENTE
-R-35269,CAL|SOUP|Quinoa Tortilla|350ml,FOOD
-R-65938,CAL|Soup|Tortilla + pork belly,GV - CALIENTE
-R-44511,CAL|Soup|Tortilla Chicken|350,GV - CALIENTE
-R-64102,CAL|Soup|Tortilla veggie|AAD,GV - CALIENTE
-R-68789,CAL|taco|Bean& Hominy(1)|AAD,GV - CALIENTE
-R-62017,CAL|Taco|Cauliflower(1)AAD,GV - CALIENTE
-R-50528,CAL|Taco|Chorizo|SP|AAD,GV - CALIENTE FEATURE
-R-64940,CAL|Taco|crispy Chicken(1)|AAD,GV - CALIENTE
-R-35879,CAL|Taco|ocean wise|Cod(1)|AAD,GV - CALIENTE
-R-56711,CAL|Taco|Oceanwise|Prawn(1),GV - CALIENTE
-R-61837,CAL|Taco|Oceanwise|Shrimp(1),GV - CALIENTE FEATURE
-R-68791,CAL|Taco|Picadillo Beef(1),GV - CALIENTE
-R-57235,CAL|Taco|plant based|corn(1),GV - CALIENTE FEATURE
-R-44583,CAL|Taco|Pulled pork(1)|AAD,GV - CALIENTE
-R-54196,CAL|Taco|Spinach feta,SPECIALS
-R-55282,CAL|Taco|Steak(1)|AAD,GV - CALIENTE
-R-35882,CAL|Taco|Sweet Potato|1 pc|AAD,FT BUENO
+R-36639,GRL|Salad|Signature,GV GRILL DAY
+R-37685,GRL|Salad|Signature Greens,GV GRILL DAY
+R-57819,GRL|Salad|Spicy Caesar|AAD,GV GRILL DAY
+R-38110,GRL|Samosa|Breakfast ,GV - GRILL BREAKFAST
+R-7084,GRL|Sand|alarm clock croissant,GV - GRILL BREAKFAST
+R-45077,GRL|Sand|B.E.L.T.|FT,GV - GRILL BREAKFAST
+R-56456,GRL|Sand|Monte Cristo|AAD,GV - GRILL BREAKFAST
+R-50491,GRL|Sand|Reuben|AAD,GV GRILL FEATURE
+R-44757,GRL|Sandwich|Bacon muffin|AAD,GV - GRILL BREAKFAST
+R-55975,GRL|Sandwich|BBQ Pull Pork|SP,SPECIALS
+R-70679,GRL|Sandwich|breakfast BLT|AAD,BRUNCH
+R-50303,GRL|Sandwich|Cubano|FT,GV GRILL FEATURE
+R-69630,GRL|Sandwich|Ham Muffin|AAD,GV - GRILL BREAKFAST
+R-56074,GRL|Sandwich|Korean Pork Belly,GV GRILL FEATURE
+R-47758,GRL|Sandwich|sausageMuffin|AAD,GV - GRILL BREAKFAST
+R-56493,GRL|Sandwich|Tuna Melt|AAD,OK - GRILL KITCHEN FEATURES
+R-50078,GRL|SandwichPancake Egg Chz|Sp,SPECIALS
+R-44892,GRL|Sauce|Vegan Ketchup,GV GRILL DAY
+R-64985,GRL|Short Rib Dip,GV GRILL FEATURE
+R-44731,GRL|Side|Bacon (1),GV - GRILL BREAKFAST
+R-28986,GRL|Side|Bacon (2),GV - GRILL BREAKFAST
+R-62011,GRL|Side|breakfast meats|RATIO,GV - GRILL BREAKFAST
+R-44770,GRL|Side|Chicken Strips,GV GRILL DAY
+R-44773,GRL|Side|Fries|Beer Battered,GV GRILL DAY
+R-62248,GRL|Side|Ham,GV - GRILL BREAKFAST
+R-61822,GRL|Side|hashbrowns|,GV - GRILL BREAKFAST
+R-45233,GRL|Side|Potato Fries,GV GRILL DAY
+R-44738,GRL|Side|Tomato,GV - GRILL BREAKFAST
+R-62426,GRL|Side|Tomato/spinach|RATIO,GV - GRILL BREAKFAST
+R-44734,GRL|Side|Turkey Sausage (2),GV - GRILL BREAKFAST
+R-62249,GRL|Side|wilted Bfast spinach,GV - GRILL BREAKFAST
+R-44774,GRL|Side|Yam Fries|AAD,GV GRILL DAY
+R-48742,GRL|SliderBrisket BBQ|SP,SPECIALS
+R-71076,GRL|Sloppy Joe|AAD,GV GRILL DAY
+R-70821,GRL|Spicy Crispy Tofu|AAD,GV GRILL DAY
+R-70696,GRL|Three Cheese Scramble|AAD,GV - GRILL BREAKFAST
+R-69609,GRL|TMRW Burger|Cajun|AAD,GV GRILL FEATURE
+R-67345,GRL|TMRW muffin|AAD,GV - GRILL BREAKFAST
+R-69629,GRL|TMRW|Buffalo Burger|AAD,SPECIALS
+R-49382,GRL|Turkey Breakfast Cone|Sp,SPECIALS
+R-69678,GRL|Vegan French Toast|AAD,GV GRILL BRUNCH
+R-58404,GRL|Vegan hash 225g,SPECIALS
+R-56052,GRL|Vegetable tempura|SP,SPECIALS
+R-70293,GRL|Vegetarian Scramble|AAD,GV - GRILL BREAKFAST
+R-42127,GRL|Veggie Chili Dog|SP,GV GRILL FEATURE
+R-55703,GRL|Veggie Patty|sub ,GV GRILL DAY
+R-70015,"GRL|Wrap|just egg, rice+beans",GV - GRILL BREAKFAST
+R-56715,GRL|Wrap|Vanier Rice and beans,GV - GRILL BREAKFAST
+R-69679,GRL|ZooStick|AAD,GV GRILL DAY
+R-31284,GRLlVeggie Quesadilla,SPECIALS
+R-49939,GRLTortellini Alfredo|SP,SPECIALS
 R-50363,GZA|Bowl|Acorn Squash|AAD,GV GYAZA
-R-49761,GZA|Bowl|Bibimbap Tofu,GV GYAZA
-R-68822,GZA|Bowl|Corn togorashi ,GV GYAZA
-R-64725,GZA|Bowl|Crispy Cauli Bowl,GV GYAZA
+R-50359,GZA|Bowl|BC Tuna ,GV GYAZA
+R-49761,GZA|Bowl|Bibimbap Tofu|AAD,GV GYAZA
+R-68822,GZA|Bowl|Corn togarashi|AAD,GV GYAZA
+R-64725,GZA|Bowl|Crispy Cauli Bowl|AAD,GV GYAZA
 R-50362,GZA|Bowl|Karaage Chicken|AAD,GV GYAZA
 R-54342,GZA|Bowl|Kitsilano Tofu|AAD,GV GYAZA
-R-50360,GZA|Bowl|Salmon ponzu,GV GYAZA
+R-64695,GZA|Bowl|Mushroom salmon bowl,GV GYAZA
+R-55153,GZA|bowl|Plant forward,GV GYAZA
+R-50360,GZA|Bowl|Salmon shiso ponzu,GV GYAZA
 R-65512,GZA|Bowl|Spicy albacore Tuna,GV GYAZA
 R-50361,GZA|Bowl|Spicy Beef|AAD,GV GYAZA
+R-71000,GZA|Bowl|Spicy Chicken|AAD,GV GYAZA
+R-70668,GZA|Bowl|spicy gigner broccoli,GV GYAZA
+R-50013,GZA|Combo|Bibimbap Miso|SP,SPECIALS
+R-51248,GZA|Combo|Miso+Cone|BEEF,GV GYAZA
+R-50364,GZA|Combo|Miso+Cone|SAL,GV GYAZA
+R-51247,GZA|Combo|Miso+Cone|TUN,GV GYAZA
 R-51249,GZA|Dashi+Dumps|AAD,GV GYAZA
+R-49912,GZA|Miso for cone|SP,SPECIALS
 R-68982,GZA|ramen broth|Udon,SPECIALS
+R-44328,GZA|Salad|Seaweed,GV GYAZA
+R-50532,GZA|Salad|Sunomono,GV GYAZA
 R-50508,GZA|Soup|Miso|AAD,GV GYAZA
+R-40778,GZA|sushi cone|beef,GV GYAZA
+R-40779,GZA|Sushi cone|chicken,GV GYAZA
+R-40776,GZA|Sushi Cone|Salmon,GV GYAZA
+R-40777,GZA|Sushi Cone|Tuna,GV GYAZA
+R-62276,GZA|Sushi|Cucumber maki roll,GV GYAZA
+R-54299,GZA|Tofu Wakame Cone|G&G,GV GYAZA
+R-54846,HC|Benny |Pulled Pork|AAD,SPECIALS
+R-49444,HC|Chicken and Waffle|FNH,SPECIALS
+R-44379,HC|Chicken Pot Pie(1) AAD,GV FLEX GLOBAL BOWL
+R-56827,HC|Chickpea Vindaloo|AAD,FT OASIS/CHAAT
+R-69996,HC|Korean Chicken Bowl|AAD|POP,SPECIALS
+R-69877,HC|Pesto bacon benny|FNH,GV GRILL FEATURE
+R-55572,HC|Rotini Primavera|AAD,SPECIALS
+R-46081,HCMG-Breakfast Yorkies ,GV - GRILL BREAKFAST
+R-46073,HCMG-Pancakes-Apple Oat,GV - GRILL BREAKFAST
+R-51256,HMCMNG|Beyond breakfast|SP,GV - FLEX BC
+R-13431,MILK - CARTON - 473 ml,BEVERAGE
+R-57283,MIX|Salad Bar|draft,FOOD
+R-45639,OWTP Beverage,SPECIALS
+R-45636,OWTP Chicken Breast-Lemon Herb,SPECIALS
+R-45641,OWTP Potato Salad,SPECIALS
+R-45643,OWTP Rice Noodle Salad,SPECIALS
+R-45984,"OWTP The Picnic, per person",SPECIALS
+R-45637,OWTP Tofu-Lemon Herb,SPECIALS
+R-45640,OWTP Watermelon-Fresh Sliced,SPECIALS
+R-54903,PASTA|Baked Chorizo Penne|AAD,SPECIALS
+R-55575,PASTA|Blue Cheese Penne|Sp,SPECIALS
+R-55270,PASTA|Chicken Pasta|SP,SPECIALS
+R-55375,PASTA|Chicken Sweet Sour|Sp,SPECIALS
+R-54788,PASTA|Mac n Cheese Deluxe|Sp,SPECIALS
+R-56028,PASTA|Mac n Cheese|Pork|Sp,SPECIALS
+R-55275,PASTA|Mac n Cheese|Sausage|Sp,SPECIALS
+R-49748,PASTA|Penne and Meatballs|GLB,SPECIALS
+R-55374,PASTA|Penne Meat Sauce|Sp,SPECIALS
+R-53358,POP|Add Cod bouille|MR,SPECIALS
+R-54920,POP|Balsamic Mushrooms|TEN,SPECIALS
+R-65784,POP|Beet Burger|JB,MEAT
+R-53420,POP|Cauliflower Dog|,SPECIALS
+R-53417,POP|Cauliflower fries|TEN,SPECIALS
+R-54919,POP|Chicken Ballotine|TEN,SPECIALS
+R-54921,POP|Coconut Basmati|TEN,SPECIALS
+R-54609,POP|Coq Au Vin|Ed,SPECIALS
+R-64012,POP|Cornbread|Ed,FOOD - ENTREES
+R-54918,POP|Eggplant Parmesan|TEN,SPECIALS
+R-53356,POP|Fennel Bouillabaisse|MR,SPECIALS
+R-65782,POP|fifty burger|JB,MEAT
+R-53249,POP|Flatbread|RoastedApple|MR,SPECIALS
+R-64213,Pop|Garlic Mashed|Ed,SPECIALS
+R-53359,POP|Garlic toast|MR,SPECIALS
+R-65879,POP|Gather Salad|,MEAT
+R-64013,POP|Green Rice Side|Ed,FOOD - ENTREES
+R-55259,POP|Honey glaze carrot|TEN,SPECIALS
+R-53418,POP|Meat lover dog|TEN,SPECIALS
+R-47070,POP|Po-boy oyster sliders,SPECIALS
+R-65783,POP|Prawn Burger|JB,MEAT
+R-53978,POP|Sauce Add|MR,SPECIALS
+R-54917,POP|Seafood crepe|TEN,SPECIALS
+R-64024,POP|Smky Black Bean Ragout|PLT,SPECIALS
+R-64098,POP|Smoked Brisket|Plate,SPECIALS
+R-64099,POP|Smoked Brisket|Ptn,SPECIALS
+R-66136,POP|Smoked Chicken Thigh|Ed,SPECIALS
+R-66888,POP|Smoked Tofu|Ed,SPECIALS
+R-54607,POP|Spicy Potato Curry|Ed,SPECIALS
+R-59583,POP|SZ|Chicken Shwarma ,SPECIALS
+R-65781,POP|TMRW TRFL burger|JB,MEAT
+R-46860,POP|Vegetable Terrine,SPECIALS
+R-66293,POP|Vegg Empanada|Ed,SPECIALS
+R-70972,POPUP|stephs chicken ,SPECIALS
+R-63545,PROMO - 2 FOR $5 - AHA 500ml /,BEVERAGE
+R-57292,SALAD BAR|MIX|large|32oz,FOOD
+R-57291,SALAD BAR|MIX|medium|16oz,FOOD
+R-57296,SALAD BAR|MIX|Small|9oz,FOOD
+R-57289,SALAD BAR|MIX|Topper,FOOD
+R-45838,SAND|Add Bacon,GV-SANDWICH
+R-44678,SAND|Add Cheese,GV-SANDWICH
+R-44683,SAND|Add Extra Sauce,GV-SANDWICH
+R-44679,SAND|Add Falafel ,GV-SANDWICH
+R-44684,SAND|Add Guacamole,GV-SANDWICH
+R-44680,SAND|Add Ham,GV-SANDWICH
+R-56125,SAND|Add Proscuitto,GV-SANDWICH
+R-44681,SAND|Add Roast Beef,GV-SANDWICH
+R-44682,SAND|Add Turkey,GV-SANDWICH
+R-70778,SAND|BagelHawiianPizza|AAD,GV GRILL DAY
+R-48752,SAND|Chicken Ceasar |Wrap,GV-SANDWICH
+R-43886,SAND|Falafel Full Build,GV-SANDWICH
+R-43880,SAND|Ham Full Build,GV-SANDWICH
+R-70711,Sand|Pesto Provolone Tom|AAD,GV-SANDWICH
+R-70776,SAND|PizzaSupreme Bagel|AAD,GV GRILL DAY
+R-43885,SAND|Roast Beef Full Build,GV-SANDWICH
+R-43884,SAND|Turkey Full Build,GV-SANDWICH
+R-28374,SAND|Vegetable Full Build,GV-SANDWICH
+R-14201,SB|Cereal Hot|Oatmeal,GV - GRAB & GO
+R-13846,SB|EGGS SCRAMBLED 1scoop,GV - GRILL BREAKFAST
+R-45099,SIDE|Bean Mixed Ragout,GV - SIDES
+R-60459,SIDE|Caesar salad|FLX,GV - FLEX BC
+R-64673,side|chickpeagreeksalad|popRS,GV - FLEX BC
+R-19690,SIDE|Cous Cous,GV - SIDES
+R-38033,SIDE|Fruit Cup|9oz,GV - SIDES
+R-38028,SIDE|Fruit Topper|4oz,GV - SIDES
+R-38159,SIDE|Large Bowl|32oz,GV - SIDES
+R-64674,side|moroccancouscous|popRS,SPECIALS
+R-31123,SIDE|Pita|Half,GV - SIDES
+R-32331,SIDE|Pita|Whole,GV - SIDES
+R-38160,SIDE|Small Bowl|16oz,GV - SIDES
+R-46327,SIDE|Small Plate|6 inch,GV - SIDES
+R-38014,SIDE|Soup|16oz,GV - SOUP
+R-38026,SIDE|Soup|8oz,GV - SOUP
+R-14068,SIDE|Soup|Congee|Meat,GV - SOUP
+R-14102,SIDE|SoupCongee|Plain,GV - SOUP
+R-57380,SL|Add|Pesto beans + Chard,FOOD
+R-57257,SL|Bacon Pork Loin|AAD|100g,GV SIMPLY LOCAL
+R-62300,SL|Bacon Pork Loin|plate,GV SIMPLY LOCAL
+R-65945,SL|bbq salmon|100g,GV SIMPLY LOCAL
+R-53405,SL|Beef Back Rib,GV SIMPLY LOCAL
+R-53404,SL|Beef Back Rib Plate,GV SIMPLY LOCAL
+R-62718,SL|Beef Brisket|+1,GV SIMPLY LOCAL
+R-62716,SL|Beef Brisket|+2,GV SIMPLY LOCAL
+R-62054,SL|Beef Brisket|+3,GV SIMPLY LOCAL
+R-62053,SL|Beef Brisket|+4,GV SIMPLY LOCAL
+R-49123,SL|Beef Brisket|AAD|SL,GV SIMPLY LOCAL
+R-62202,SL|Beef Brisket|Plate,GV SIMPLY LOCAL
+R-62078,SL|Beef flat roast| +1,GV SIMPLY LOCAL
+R-62077,SL|Beef flat roast| +2,GV SIMPLY LOCAL
+R-62076,SL|Beef flat roast| +3,GV SIMPLY LOCAL
+R-48878,SL|Beef flat roast| +4,GV SIMPLY LOCAL
+R-62209,SL|Beef flat roast| 125g,GV SIMPLY LOCAL
+R-62210,SL|Beef flat roast|Plate,GV SIMPLY LOCAL
+R-50319,SL|Beef Rib|Entre,SPECIALS
+R-48880,SL|Beef Roast Plate|Sample,GV SIMPLY LOCAL
+R-64861,SL|Beef Short Rib|Plate,GV - FLEX BC
+R-65673,SL|Big Veg Beet roast|320g,GV SIMPLY LOCAL
+R-62170,SL|Big Veg Eggplant|+1,GV SIMPLY LOCAL
+R-62169,SL|Big Veg Eggplant|+2,GV SIMPLY LOCAL
+R-62168,SL|Big Veg Eggplant|+3,GV SIMPLY LOCAL
+R-45101,SL|Big Veg Eggplant|320g,GV SIMPLY LOCAL
+R-62229,SL|Big Veg Eggplant|plate,GV SIMPLY LOCAL
+R-65678,SL|Big Veg roast beets|Plate,GV SIMPLY LOCAL
+R-66197,SL|Big Veg zucchini|+1,GV SIMPLY LOCAL
+R-66196,SL|Big Veg zucchini|+2,GV SIMPLY LOCAL
+R-66195,SL|Big Veg Zucchini|320g,GV SIMPLY LOCAL
+R-66582,SL|big Veg Zucchini|Plate,GV SIMPLY LOCAL
+R-62196,SL|Big Veg|brussel sprouts,GV SIMPLY LOCAL
+R-62711,SL|Big veg|brussel|+1,GV SIMPLY LOCAL
+R-62710,SL|Big veg|brussel|+2,GV SIMPLY LOCAL
+R-53492,SL|Big veg|BrusselRoasted,GV SIMPLY LOCAL
+R-62046,SL|Big veg|BrusselRoasted +1,GV SIMPLY LOCAL
+R-62045,SL|Big veg|BrusselRoasted +2,GV SIMPLY LOCAL
+R-62044,SL|Big veg|BrusselRoasted +3,SPECIALS
+R-62195,SL|Big veg|Brussels|Plate,GV SIMPLY LOCAL
+R-62065,SL|Big Veg|Cauli Roasted| +1,GV SIMPLY LOCAL
+R-62066,SL|Big Veg|Cauli Roasted| +2,GV SIMPLY LOCAL
+R-62064,SL|Big Veg|Cauli Roasted| +3,GV SIMPLY LOCAL
+R-37781,SL|Big Veg|Caulif Roast|320g,GV SIMPLY LOCAL
+R-62205,SL|Big Veg|Caulif Roast|Plate,GV SIMPLY LOCAL
+R-36859,SL|Bruss Sprout Lemon Thyme|SL,GV SIMPLY LOCAL
+R-46325,SL|Chicken Breast,GV SIMPLY LOCAL
+R-46326,SL|Chicken Breast plate,GV SIMPLY LOCAL
+R-44799,SL|Chicken Breast|Lemon Thyme,GV SIMPLY LOCAL
+R-44816,SL|Chicken Breast|Plate Day 3,GV SIMPLY LOCAL
+R-44910,SL|Chicken Breast|Plate Day 7,GV SIMPLY LOCAL
+R-62298,SL|Chicken Brst|Tom basil dont,GV SIMPLY LOCAL
+R-62122,SL|Chicken cacciatore|+1,GV SIMPLY LOCAL
+R-62121,SL|Chicken cacciatore|+2,GV SIMPLY LOCAL
+R-62120,SL|Chicken cacciatore|+3,GV SIMPLY LOCAL
+R-62119,SL|Chicken cacciatore|+4,GV SIMPLY LOCAL
+R-57253,SL|Chicken cacciatore|AAD|140g,GV SIMPLY LOCAL
+R-62217,SL|Chicken cacciatore|Plate,GV SIMPLY LOCAL
+R-46993,SL|Chicken Drum|Plate Sample,GV SIMPLY LOCAL
+R-16959,SL|Chicken Drumstick (2),GV SIMPLY LOCAL
+R-70985,SL|chicken manchuian|AAD|140g,GV SIMPLY LOCAL
+R-47110,SL|Chicken Thigh (2) ,GV SIMPLY LOCAL
+R-51174,SL|Chicken Thigh Plate|Sample,GV SIMPLY LOCAL
+R-62071,SL|Chicken Thigh|+1,GV SIMPLY LOCAL
+R-62070,SL|Chicken Thigh|+2,GV SIMPLY LOCAL
+R-62069,SL|Chicken Thigh|+3,GV SIMPLY LOCAL
+R-62068,SL|Chicken Thigh|+4,GV SIMPLY LOCAL
+R-62207,SL|Chicken Thigh|Plate,GV SIMPLY LOCAL
+R-62175,SL|chimichuri thigh|+1,GV SIMPLY LOCAL
+R-62174,SL|chimichuri thigh|+2,GV SIMPLY LOCAL
+R-62173,SL|chimichuri thigh|+3,GV SIMPLY LOCAL
+R-62172,SL|chimichuri thigh|+4,GV SIMPLY LOCAL
+R-57250,SL|chimichuri thigh|160g,GV SIMPLY LOCAL
+R-62230,SL|chimichuri thigh|Plate,GV SIMPLY LOCAL
+R-62227,SL|Chix breast tom/basil| 150g,GV SIMPLY LOCAL
+R-62164,SL|Chix breast tom/basil|+1,GV SIMPLY LOCAL
+R-62163,SL|Chix breast tom/basil|+2,GV SIMPLY LOCAL
+R-62161,SL|Chix breast tom/basil|+3,GV SIMPLY LOCAL
+R-62228,SL|Chix breast tom/basil|Plate,GV SIMPLY LOCAL
+R-57259,SL|Creole chicken,GV SIMPLY LOCAL
+R-62090,SL|Ctrs thym chkn breast|+1,GV SIMPLY LOCAL
+R-62089,SL|Ctrs thym chkn breast|+2,GV SIMPLY LOCAL
+R-62088,SL|Ctrs thym chkn breast|+3,GV SIMPLY LOCAL
+R-57256,SL|Ctrs thym chkn breast|150g,GV SIMPLY LOCAL
+R-62212,SL|Ctrs thym chkn breast|Plate,GV SIMPLY LOCAL
+R-62158,SL|Ginger pork loin|+1,GV SIMPLY LOCAL
+R-62157,SL|Ginger pork loin|+2,GV SIMPLY LOCAL
+R-62156,SL|Ginger pork loin|+3,GV SIMPLY LOCAL
+R-62155,SL|Ginger pork loin|+4,GV SIMPLY LOCAL
+R-62159,SL|Ginger pork loin|125g,GV SIMPLY LOCAL
+R-62226,SL|Ginger pork loin|Plate,GV SIMPLY LOCAL
+R-57389,SL|Grilled herb tofu,GV SIMPLY LOCAL
+R-57390,SL|Grilled tofu +1,GV SIMPLY LOCAL
+R-57391,SL|Grilled tofu +2,GV SIMPLY LOCAL
+R-64788,SL|halibut|DRAFT,GV SIMPLY LOCAL
+R-64790,SL|Halibut|Feature|+1,GV SIMPLY LOCAL
+R-64789,SL|Halibut|Feature|+2,GV SIMPLY LOCAL
+R-62438,SL|Halibut|Feature|100g,GV SIMPLY LOCAL
+R-64773,SL|Halibut|Feature|PLATE,GV SIMPLY LOCAL
+R-62115,SL|Herb'd Pork Loin|+1,GV SIMPLY LOCAL
+R-62114,SL|Herb'd Pork Loin|+2,GV SIMPLY LOCAL
+R-62113,SL|Herb'd Pork Loin|+4,GV SIMPLY LOCAL
+R-37708,SL|Herb'd Pork Loin||125g,GV SIMPLY LOCAL
+R-62215,SL|Herb'd Pork Loin|Plate,GV SIMPLY LOCAL
+R-62063,SL|Herbed chicken breast| +1do,GV SIMPLY LOCAL
+R-62062,SL|Herbed chicken breast| +2do,GV SIMPLY LOCAL
+R-62061,SL|Herbed chicken breast| +3,GV SIMPLY LOCAL
+R-62727,SL|Herbed chicken breast|+1,GV SIMPLY LOCAL
+R-62724,SL|Herbed chicken breast|+2,GV SIMPLY LOCAL
+R-44903,SL|Herbed chicken breast|150g,GV SIMPLY LOCAL
+R-62204,SL|Herbed chicken breast|Plate,GV SIMPLY LOCAL
+R-70977,SL|Jerk Chicken Plate|POP,GV SIMPLY LOCAL
+R-70976,SL|Jerk Eggplant Plate|POP,GV SIMPLY LOCAL
+R-57261,SL|Lamb leg roast,GV SIMPLY LOCAL
+R-51176,SL|Lamb Roast Plate|Sample,GV SIMPLY LOCAL
+R-53080,SL|Lamb Roast|ala carte,GV SIMPLY LOCAL
+R-57065,SL|Lemon chicken plate|,GV SIMPLY LOCAL
+R-51173,SL|maple bals Pork Loin|+ 3,GV SIMPLY LOCAL
+R-62057,SL|maple bals Pork Loin|+ 4,GV SIMPLY LOCAL
+R-62722,SL|maple bals Pork Loin|+1,GV SIMPLY LOCAL
+R-62721,SL|maple bals Pork Loin|+2,GV SIMPLY LOCAL
+R-62060,SL|maple bals Pork Loin||125g,GV SIMPLY LOCAL
+R-62203,SL|maple bals Pork Loin|Plate,GV SIMPLY LOCAL
+R-62125,SL|Maple salmon|+1,GV SIMPLY LOCAL
+R-62126,SL|Maple salmon|+2,GV SIMPLY LOCAL
+R-62124,SL|Maple salmon|+3,GV SIMPLY LOCAL
+R-45376,SL|Maple salmon|AAD,GV SIMPLY LOCAL
+R-62218,SL|Maple salmon|Plate,GV SIMPLY LOCAL
+R-62142,SL|Olive dressed Chicken|+1,GV SIMPLY LOCAL
+R-62141,SL|Olive dressed Chicken|+2,GV SIMPLY LOCAL
+R-58436,SL|Olive dressed Chicken|160g,GV SIMPLY LOCAL
+R-62222,SL|Olive dressed Chicken|Plate,GV SIMPLY LOCAL
+R-62140,SL|Olive Stuff Chicken Breas,GV SIMPLY LOCAL
+R-62132,SL|Peppercorn Pork Chop|+1,GV SIMPLY LOCAL
+R-62134,SL|Peppercorn Pork Chop|+2,GV SIMPLY LOCAL
+R-62135,SL|Peppercorn Pork Chop|+3,FOOD
+R-62133,SL|Peppercorn Pork Chop|+4,FOOD
+R-62127,SL|Peppercorn Pork Chop|170g,GV SIMPLY LOCAL
+R-62211,SL|Peppercorn Pork Chop|Plate,GV SIMPLY LOCAL
+R-45127,SL|Peppers Roast Medley,GV SIMPLY LOCAL
+R-51180,SL|Porchetta Plate|sample,GV SIMPLY LOCAL
+R-57251,SL|Pork chop cajun,FOOD
+R-62083,SL|Pork Chop herb'd|+1,GV SIMPLY LOCAL
+R-62082,SL|Pork Chop herb'd|+2,GV SIMPLY LOCAL
+R-62081,SL|Pork Chop herb'd|+3,FOOD
+R-62080,SL|Pork Chop herb'd|+4,FOOD
+R-57254,SL|Pork Chop herb'd|170g,GV SIMPLY LOCAL
+R-62297,SL|Pork Chop Herb'd|Plate,GV SIMPLY LOCAL
+R-62220,SL|pork chop|green peppercorn,GV SIMPLY LOCAL
+R-57260,SL|Pork loin maple balsamic,GV SIMPLY LOCAL
+R-36856,SL|Potato|Smashed kale,GV - FLEX BC
+R-62189,SL|Potatos|RATIO,GV SIMPLY LOCAL
+R-62190,SL|Rice + Ruinoa|RATIO,GV SIMPLY LOCAL
+R-62185,SL|Rosemary Chicken (2) ,GV SIMPLY LOCAL
+R-64469,SL|Rosemary Chicken|+1,GV SIMPLY LOCAL
+R-64470,SL|Rosemary Chicken|+2,GV SIMPLY LOCAL
+R-62233,SL|Rosemary Chicken|Plate,GV SIMPLY LOCAL
+R-64895,SL|Salmon Cajun|+1,GV SIMPLY LOCAL
+R-64896,SL|Salmon Cajun|+2,GV SIMPLY LOCAL
+R-62238,SL|Salmon Cajun|100g,GV SIMPLY LOCAL
+R-62237,SL|Salmon Cajun|Plate,GV SIMPLY LOCAL
+R-57252,SL|Salmon coconut ginger 100g,GV SIMPLY LOCAL
+R-62208,SL|Salmon coconut ginger|Plate,GV SIMPLY LOCAL
+R-57381,SL|Salmon dill|+1,GV SIMPLY LOCAL
+R-57382,SL|salmon dill|+2,GV SIMPLY LOCAL
+R-62178,SL|Salmon dill|+3,GV SIMPLY LOCAL
+R-57258,SL|Salmon dill|100g,GV SIMPLY LOCAL
+R-62231,SL|Salmon dill|Plate,GV SIMPLY LOCAL
+R-62074,SL|Salmon ginger| +1,GV SIMPLY LOCAL
+R-62073,SL|Salmon ginger| +2,GV SIMPLY LOCAL
+R-62072,SL|Salmon ginger| +3,GV SIMPLY LOCAL
+R-62152,SL|Salmon gremolata|+1,GV SIMPLY LOCAL
+R-62151,SL|Salmon gremolata|+2,GV SIMPLY LOCAL
+R-62150,SL|Salmon gremolata|+3,GV SIMPLY LOCAL
+R-62149,SL|Salmon gremolata|100g,GV SIMPLY LOCAL
+R-62224,SL|Salmon gremolata|Plate,GV SIMPLY LOCAL
+R-62715,SL|Salmon Lemon herb|+1,GV SIMPLY LOCAL
+R-62714,SL|Salmon Lemon herb|+2,GV SIMPLY LOCAL
+R-62097,SL|Salmon Lemon herb|+3,GV SIMPLY LOCAL
+R-62096,SL|Salmon Lemon herb|100g,GV SIMPLY LOCAL
+R-62201,SL|Salmon Lemon herb|Plate,GV SIMPLY LOCAL
+R-62111,SL|Salmon Magrut Lime|+1,GV SIMPLY LOCAL
+R-62110,SL|Salmon Magrut Lime|+2,GV SIMPLY LOCAL
+R-62109,SL|Salmon Magrut Lime|100g,GV SIMPLY LOCAL
+R-62214,SL|Salmon makrut lime|Plate,GV SIMPLY LOCAL
+R-51172,SL|Salmon Plate|Sample,GV SIMPLY LOCAL
+R-64835,SL|Salmon spicy basil|+1,GV SIMPLY LOCAL
+R-64836,SL|Salmon spicy basil|+2,GV SIMPLY LOCAL
+R-62235,SL|Salmon spicy basil|100g,GV SIMPLY LOCAL
+R-62236,SL|Salmon spicy basil|Plate,GV SIMPLY LOCAL
+R-57249,SL|Sauce blend|All sauces,FOOD
+R-45383,SL|Sauce|Add|Apple Salsa ptn,GV SIMPLY LOCAL
+R-45069,SL|Sauce|Add|Babaganoush ,GV SIMPLY LOCAL
+R-45158,SL|Sauce|Add|Blueberry Salsa,GV SIMPLY LOCAL
+R-36860,SL|Sauce|Add|Chimichurri ,GV SIMPLY LOCAL
+R-45146,SL|Sauce|Add|Gremolata ,GV SIMPLY LOCAL
+R-45382,SL|Sauce|Add|Ponzu,GV SIMPLY LOCAL
+R-45159,SL|Sauce|Add|Rouille,GV SIMPLY LOCAL
+R-62302,SL|Sauce|RATIO|NEW,GV SIMPLY LOCAL
+R-45156,SL|Sauce|Roast Shallot Tomato,GV SIMPLY LOCAL
+R-45140,SL|Sauce|Vinaigrete Watercress,GV SIMPLY LOCAL
+R-45157,SL|Sauce|Vinaigrette Beet ,GV SIMPLY LOCAL
+R-45160,SL|Sauce|Vinaigrette Citrus,GV SIMPLY LOCAL
+R-62192,SL|Sauces,GV SIMPLY LOCAL
+R-62206,SL|side Starches|Ratio,FOOD
+R-57246,SL|side Vegetable| Ratio,FOOD
+R-57243,SL|Side|beans and pesto,FOOD
+R-37868,SL|Side|Beans Romano ,GV SIMPLY LOCAL
+R-37779,SL|Side|Broccoli steamed,GV SIMPLY LOCAL
+R-45095,SL|Side|Broccoli Vegan Cheese,GV SIMPLY LOCAL
+R-44812,SL|Side|Carrot Roasted,GV SIMPLY LOCAL
+R-45093,SL|Side|Cauliflower Sumac,GV SIMPLY LOCAL
+R-44814,SL|Side|Potato baked,GV SIMPLY LOCAL
+R-36874,SL|Side|Potato Rosemary Roast,GV SIMPLY LOCAL
+R-47746,SL|Side|Potato Smash Olive Oil,GV SIMPLY LOCAL
+R-46330,SL|Side|Quinoa,GV SIMPLY LOCAL
+R-45139,SL|Side|Radicchio Lemon Honey,GV SIMPLY LOCAL
+R-36854,SL|Side|Rice Brown,GV SIMPLY LOCAL
+R-52652,SL|Side|Roasted Potato,GV SIMPLY LOCAL
+R-45092,SL|Side|Root Veg Roasted ,GV SIMPLY LOCAL
+R-36853,SL|Side|SorghumRoasted,GV SIMPLY LOCAL
+R-45071,SL|Side|Squash Butternut Acorn,GV SIMPLY LOCAL
+R-44809,SL|Side|Squash Spaghetti Roast,GV SIMPLY LOCAL
+R-17126,SL|Side|Vegetable Fancy,GV SIMPLY LOCAL
+R-45807,SL|Side|Vegetable Simple,GV SIMPLY LOCAL
+R-36885,SL|Side|Yam Maple Rosemary,GV SIMPLY LOCAL
+R-37824,SL|Side|Zucchini Roasted,GV SIMPLY LOCAL
+R-45094,SL|Side|Zuchini Rosemary Thyme,GV SIMPLY LOCAL
+R-62303,SL|SIDEs x1|RATIO,GV SIMPLY LOCAL
+R-44810,SL|SideYam Roasted Sage,GV SIMPLY LOCAL
+R-45070,SL|Squash bowl(1),GV SIMPLY LOCAL
+R-62118,SL|Squash bowl|+1,GV SIMPLY LOCAL
+R-62117,SL|Squash bowl|+2,GV SIMPLY LOCAL
+R-62116,SL|Squash bowl|+3,GV SIMPLY LOCAL
+R-62216,SL|Squash bowl|Plate,GV SIMPLY LOCAL
+R-57242,SL|Starches blend|Beans legume,FOOD
+R-57240,SL|Starches Blend|Potatoes,FOOD - HOT
+R-57241,SL|Starches blend|Rice & grain,FOOD
+R-57244,SL|Starches|RATIO|NEW,GV SIMPLY LOCAL
+R-65944,SL|Stuffed squash|Plate,GV SIMPLY LOCAL
+R-66322,SL|Stuffed TMRW pepper,GV SIMPLY LOCAL
+R-67016,SL|Stuffed TMRW pepper +1,GV SIMPLY LOCAL
+R-67013,SL|Stuffed TMRW pepper +2,GV SIMPLY LOCAL
+R-67011,SL|Stuffed TMRW pepper|Plate,GV SIMPLY LOCAL
+R-62713,SL|turkey dinner|+1,GV SIMPLY LOCAL
+R-62712,SL|turkey dinner|+2,GV SIMPLY LOCAL
+R-62104,SL|Turkey dinner|+3,GV SIMPLY LOCAL
+R-62103,SL|Turkey dinner|+4,GV SIMPLY LOCAL
+R-62105,SL|Turkey dinner|140g,GV SIMPLY LOCAL
+R-62200,SL|turkey dinner|Plate,GV SIMPLY LOCAL
+R-62050,SL|Turkey Roast|+1,GV SIMPLY LOCAL
+R-62049,SL|Turkey Roast|+2,GV SIMPLY LOCAL
+R-44800,SL|Turkey Roast|+3,GV SIMPLY LOCAL
+R-62048,SL|Turkey Roast|+4,GV SIMPLY LOCAL
+R-57248,SL|Veg blend|SL,FOOD
+R-57247,SL|Veg blend|UBC,FOOD
+R-62147,SL|Vegetable lasagne|+1,GV SIMPLY LOCAL
+R-62146,SL|Vegetable lasagne|+2,GV SIMPLY LOCAL
+R-62145,SL|Vegetable lasagne|+3,GV SIMPLY LOCAL
+R-62144,SL|Vegetable lasagne|220g,GV SIMPLY LOCAL
+R-62223,SL|Vegetable lasagne|Plate,GV SIMPLY LOCAL
+R-62193,SL|vegetables x2|RATIO|NEW,GV SIMPLY LOCAL
+R-64915,SL|Yam Stuffed Chicken|+1,GV SIMPLY LOCAL
+R-64916,SL|Yam Stuffed Chicken|+2,GV SIMPLY LOCAL
+R-62240,SL|Yam Stuffed Chicken|150g,GV SIMPLY LOCAL
+R-62241,SL|Yam Stuffed Chicken|Plate,GV SIMPLY LOCAL
+R-62102,SL|Zucchini noodle pasta|+1,GV SIMPLY LOCAL
+R-62101,SL|Zucchini noodle pasta|+2,GV SIMPLY LOCAL
+R-62100,SL|Zucchini noodle pasta|+3,GV SIMPLY LOCAL
+R-62085,SL|Zucchini noodle pasta|AAD,GV SIMPLY LOCAL
+R-62213,SL|Zucchini noodle pasta|Plate,GV SIMPLY LOCAL
+R-64787,SL|Zuke halibut|Feature|+2,GV SIMPLY LOCAL
+R-62437,SL|Zuke halibut|Feature|PLATE,GV SIMPLY LOCAL
+R-8153,Soup Chix Creole Gumbo,GV - SIDES
+R-8362,Soup Cream of BC Mushroom,GV - SIDES
+R-64218,SS|POP|BBQ chicken mac&cheese,SPECIALS
+R-54640,SS|POP|Chicken|Polenta|Beans,SPECIALS
+R-54638,SS|POP|Chiles|Rellenos|Squares,SPECIALS
+R-53772,SS|POP|Koftas,SPECIALS
+R-53773,SS|POP|Moroccan|Chick,SPECIALS
+R-53774,SS|POP|Tempeh|Tostada,SPECIALS
+R-64434,SS|POP|VEG mac&cheese,SPECIALS
+R-64380,SS|POP|VEG|GUMBO2,SPECIALS
+R-64384,SS|POP|VEGAN|RICE|BEANS2,SPECIALS
+R-54637,SS|POP|Vegtable|Paella,SPECIALS
+R-61574,TACO|Tempura Prawn,OK - SQUARE MEAL
+R-64866,the big chicken wing|GRL,GV GRILL DAY
+R-70054,Tofu ChopSuey|AAD,GV - FLEX BC
+R-60906,TRUCK|Salmon Taco,OK - FOOD TRUCK(Food)
+R-56684,TST|Calzone|Chorizo,SPECIALS
+R-64397,TurkishGyro|popRS,SPECIALS
+R-18079,UNITED WAY - $2,MISC.
+R-56539,VEG|Hulk Bowl,OK- VEGETARIAN KITCHEN FEATURE
+R-58351,VEG|Pasta|Harvest Squash,OK- VEGETARIAN KITCHEN FEATURE
+R-35461,VEG|Tabbouleh Bowl|AAD,OK - VEGETARIAN KITCHEN
