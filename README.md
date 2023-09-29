@@ -1,5 +1,4 @@
 # Climate-Friendly Food Sustainability Labeling Project 2022-2023
-Generated and managed by: CFFS Data Analyst, Jenny Lee
 
 The Climate-Friendly Food Sustainability (CFFS) labelling is carried out on four sites, three of which are for UBC Food Services and the last one for AMS. 
 - UBCFS: Open Kitchen, Gather, Feast
